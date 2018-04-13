@@ -1,0 +1,18 @@
+Pedido Nº	Tipo	Situação	Categoria	Título	Data de cadastro	Descrição	Data de conclusão	Resposta	RESPOSTAS COM ANEXO
+001/2012	Informação	RESPONDIDA	LEI DE ACESSO À INFORMAÇÃO		28/08/2012 00:00	Usuários, advogados, relatam dificuldades em pesquisar jurisprudências no sítio do TJPE. 	14/09/2012 00:00	Conforme informações prestadas pela jurisprudência do TJPE, a solicitação foi devidamente atendida em 14/09/2012.	
+002/2012	Informação	RESPONDIDA	LEI DE ACESSO À INFORMAÇÃO		13/10/2012 00:00	Advogado, como base na LAI, solicita – por E-mail  - as provas discursivas do último concurso da magistratura–TJPE.	29/10/2012 00:00	"Acuso o recebimento de sua pretensão, mas esta Ouvidoria não tem condições de atender ao seu pleito referente ao envio das provas discursivas do último concurso da magistratura. Outrossim, indico que a informação solicitada deve ser dirigida à FUNDAÇÃO CARLOS CHAGAS, instituição organizadora do último concurso de Juiz de Direito, o que faço com base no artigo 15,Inciso IV do Decreto Lei nº 7724/2012 (Decreto que regulamenta a Lei de Acesso à informação). 
+Entretanto obtive a informação de que aquela instituição só disponibiliza o espelho das provas dos candidatos que realizaram a etapa do concurso.
+Por fim, existem sites através dos quais se obtêm provas de concursos realizados, como por exemplo o pciconcursos.com.br. Des. Ouvidor Judiciário.
+"	
+003/2012	Reclamação	RESPONDIDA	LEI DE ACESSO À INFORMAÇÃO		05/11/2012 00:00	Usuário,com base na LAI, solicita – por E-mail – a Estrutura Remuneratória dos Oficiais de Justiça da Capital.	08/11/2012 00:00	"Prezado Senhor,
+ 
+Segue, abaixo, Link com a Estrutura Remuneratória dos Servidores Efetivos deste TJPE.
+ 
+www.tjpe.jus.br/transparencia/arquivos/ANEXO_III_a_ESTRUTURA_REMUNERATORIA_MAI_2012_TJ.pdf
+ 
+Atenciosamente.  
+
+Ouvidoria Judiciária 
+
+"	
+									

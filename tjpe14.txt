@@ -1,0 +1,259 @@
+Pedido Nº	Tipo	Situação	Categoria	Título	Data de cadastro	Descrição	Data de conclusão	Resposta da Ouvidoria	RESPOSTAS COM ANEXO
+001	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	13/06/2014	Usuário solicita relaçao atualizada, por ordem cronológica crescente, dos servidores que estão aguardando a designação de gratificação prevista no inciso III, do artigo 48 da Lei nº. 13.839/2009 e/ou prevista no inciso IV do artigo 48 da Lei nº 18.839/2009 respectivamente, atividade de tecnologia da informação, ATI/1, e atividade de tecnologia da informação, ATI/2.	11/07/2014	Os arquivos com as respostas foram devidamente encaminhados ao email do solicitante. 	SIM                                                                                                                                                                                        Pedido de Informação nº 001/2014
+002	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	03/07/2014	Usuário solicita informações acerca da vacância de cargos de técnicos e analistas judiciários do TJPE. 	21/07/2014	Os arquivos com as respostas foram devidamente encaminhados ao email do solicitante. 	SIM                                                                                                                                                                                        Pedido de Informação nº 002/2014
+003	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	11/07/2014	"Visando a elaboração do II Plano Estadual para Prevenir, Punir e Erradicar a Violência contra as Mulheres no estado de Pernambuco, vimos por meio deste Pedido de Acesso à Informação obter junto ao Tribunal de Justiça de Pernambuco o seguinte, com informações o mais detalhadas que for possível:
+
+- Custo/gastos com instalação e manutenção das Varas Especializadas de Violência Doméstica e Familiar contra a Mulher e da Coordenadoria da Mulher do TJPE no período de 01/01/2007 a 31/12/2013.
+
+Desde já agradecendo a atenção dispensada, e certa do atendimento do pleito em questão.
+
+PS: Como não há espaço no site para o registro do CNPJ de pessoa jurídica, enviamos por aqui o da Secretaria da Mulher de Pernambuco, porquanto sabemos da necessidade do mesmo para efetuar um Pedido de Acesso à Informação, conforme preconiza a LAI (CNPJ SecMulher PE - 09601781/0001-44).
+
+
+Secretaria da Mulher
+Governo do Estado de Pernambuco
+"	19/08/2014	Os arquivos com as respostas foram devidamente encaminhados ao email do solicitante. 	SIM                                                                                                                                                                                        Pedido de Informação nº 003/2014
+004	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	31/07/2014	"Em atendimento a Lei nº 12.527/2011, gostaria de saber sobre a quantidade de cargos pendentes de nomeação referente a Lei 14.684, de 31 de maio de 2012. Peço o favor de informar se as Vagas do cargo ANALISTA JUDICIÁRIO (Apoio Especializado) estão divididas em especialidade.
+Favor informar se há a previsão para a nomeação da Especialidade Contador, e quantas vagas estão previstas.
+
+"	06/08/2014	"Email encaminhado ao solicitante: Em atendimento à solicitação a  Secretária de Gestão de Pessoas  repassou  o relatório mais recente de todos os cargos efetivos criados, providos e vagos, fornecido pela Gerência de Seleção e Acolhimento/DDH, desta Secretaria.
+Desse modo, como pode ser verificado no aludido relatório, não há cargo vago de Analista Judiciário - APJ/Contador. Por via de consequência, não há qualquer previsão para novas nomeações para a referida especialidade.
+"	
+005	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	08/08/2014	Gostaria de saber quantos cargos vagos de Analista Judiciário área Administrativa, porque no site do TJPE não há especificação dos cargos por área.	06/02/2014	Os arquivos com as respostas foram devidamente encaminhados ao email do solicitante. 	SIM                     Pedido de Informação nº 005/2014
+006	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	07/08/2014	Usuário solicita relaçao atualizadados servidores, comissionados e funcionários a disposição do TJPE lotados na Secretaria de Tecnologia da Informação e Comunicação, SETIC, deste Tribunal contendo os seguintes campos: nome completo, matricula, cargo, lotação e adicional de atividade de tecnologia de informação (art. 11 da Lei nº. 12.643/04) especificando pela sigla e valor.	19/08/2014	Os arquivos com as respostas foram devidamente encaminhados ao email do solicitante. 	SIM                     Pedido de Informação nº 006/2014
+007	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	27/08/2014	"Olá,
+
+faço parte de um projeto de pesquisa que visa levantar dados a respeito da remuneração dos servidores públicos, de modo a identificar as perspectivas remuneratórias na carreira pública. 
+Como não encontrei ferramenta específica para isso, venho por meio dessa, com base na Lei 12.527 solicitar as seguintes informações:
+Considerando o disposto no Anexo Único da Resolução nº 151 do Conselho Nacional de Justiça, solicito que este Tribunal envie uma tabela, em formato processável por máquina, seguindo o padrão da referida resolução do CNJ, detalhando de forma consolidada, em relação aos anos de 2012 e de 2013, os valores pagos a título de remuneração paradigma, vantagens pessoais, subsídios, indenizações e vantagens eventuais referentes a cada magistrado. 
+Por meio da tabela deve ser possível visualizar o valor total anual de créditos que foi pago para cada magistrado deste Tribunal nos anos de 2012 e 2013.
+ "	20/10/2014	De ordem do Des.  Ouvidor Geral da Justiça e Gestor do CPSIC/TJPE, informo a V.Sa. que no que se refere a divulgação da remuneração dos magistrados e servidores deste Poder, este Tribunal de Justiça do Estado de Pernambuco cumpre estritamente o que determina as resoluções números 102 e 151 do Conselho Nacional de Justiça. Tais dados podem ser acessados no seguinte link: www.tjpe.jus.br/consultasalario/xhtml/manterConsultaSalario/geralConsultaSalario.xhtml	
+008	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	24/08/2014	"Venho através da Lei 12.527 solicitar o seguinte:
+(a.1) Quais são todas as modalidades de indenizações, conforme a definição do artigo 3°,  inciso VI e anexo VIII da Resolução 102, alterada pela Resolução 151 CNJ, que os servidores e magistrados deste tribunal podem receber? Favor detalhar os critérios para o recebimento e o valor máximo que pode ser pago mensalmente a este título por magistrado. 
+(a.2) Em relação a cada modalidade de indenização (e.g. Auxílio-alimentação, Auxílio-transporte, Auxílio Pré-escolar, Auxílio Saúde, Auxílio Natalidade, Auxílio Moradia, Ajuda de Custo, além de outras desta natureza, conforme respondido no item a.1), solicitamos que seja informado qual o montante que foi pago a cada magistrado (nominalmente identificado) em cada um dos meses de 2012 e 2013. 
+(b.1) Quais são todas as modalidades de vantagens pessoais, conforme a definição da Resolução 151 do CNJ, que os servidores e magistrados deste tribunal podem receber? Favor detalhar os critérios para o recebimento e o valor máximo que pode ser pago mensalmente a este título por magistrado. 
+(b.2) Em relação a cada modalidade de vantagens pessoais (e.g. V.P.N.I., Adicional por tempo de serviço, quintos, décimos e vantagens decorrentes de sentença judicial ou extensão administrativa, abono de permanência, além de qualquer outra desta natureza, conforme respondido no item b.2), solicitamos que seja informado qual o montante que foi pago a cada magistrado (nominalmente identificado) em cada um dos meses de 2012 e 2013 
+(c.1) Quais são todas as modalidades de vantagens eventuais, conforme a definição da Resolução 151 do CNJ, que os servidores e magistrados deste tribunal podem receber? Favor detalhar os critérios para o recebimento e o valor máximo que pode ser pago mensalmente a este título por magistrado. 
+(c.2) Em relação a cada modalidade de vantagens eventuais (e.g. Abono constitucional de 1/3 de férias, indenização de férias, antecipação de férias, gratificação natalina, antecipação de gratificação natalina, serviço extraordinário, substituição, pagamentos retroativos, além de outras desta natureza, conforme respondido no item c.1), ), solicitamos que seja informado qual o montante que foi pago a cada magistrado (nominalmente identificado) em cada um dos meses de 2012 e 2013
+(d) Além das categorias mencionadas acima e estabelecidas na Resolução 151 do CNJ, existe algum outro rendimento ou verba que os magistrados deste Tribunal possam receber?
+"	20/10/2014	De ordem do Des. Ouvidor Geral da Justiça e Gestor do CPSIC/TJPE, informo a V.Sa. que no que se refere a divulgação da remuneração dos magistrados e servidores deste Poder, este Tribunal de Justiça do Estado de Pernambuco cumpre estritamente o que determina as resoluções números 102 e 151 do Conselho Nacional de Justiça. Tais dados podem ser acessados no seguinte link: https://www.tjpe.jus.br/consultasalario/xhtml/manterConsultaSalario/geralConsultaSalario.xhtml	
+009	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	29/08/2014	"Usuário, classificado no certame, destinado ao provimento de cargos vagos e à formação de cadastro reserva do Tribunal de Justiça de Pernambuco, o qual se regerá de acordo com o Edital N° 01/2011 respectivamente para os cargos de TA10 - TÉCNICO JUD - TPJ - JUDICIÁRIA E ADMINISTRATIVA - inscrição 073151b - classificação 118 e, ANALISTA JUD - APJ - JUDICIÁRIA E ADMINISTRATIVA - inscrição 077886c - classificação 223.
+
+Venho, mui respeitosamente, solicitar-lhes o quantitativo de vagas existentes, no momento, e as vindouras, no que tange o Pólo 10 - Agreste Meridional - para os seguintes cargos: 
+
+1. TA10 - TÉCNICO JUD - TPJ - JUDICIÁRIA E ADMINISTRATIVA;
+
+2. AA10 - ANALISTA JUD - APJ - JUDICIÁRIA E ADMINISTRATIVA. 
+
+   Tal solicitação se dá em apenas em detrimento das respectivas comarcas, integrantes do supracitado polo 10 - Agreste Meridional, sendo elas: 
+
+ Águas Belas, Angelim,  Bom Conselho,  Brejão,  Buíque, Caetés,  Calçado,  Canhotinho,  Capoeiras,  Correntes,  Garanhuns,  Iati,  Itaíba,  Jupi,  Jurema,  Lagoa do Ouro, Lajedo,  Palmeirina,  Pedra,    Saloá,  São João,    Venturosa.
+ 
+   Ocorre que fui aprovado/classificado  para os referidos cargos como bem pode ser visto nas listas de classificação. 
+
+   Solicito também que seja informado qual o prazo do término de tal certame, bem como seja respeitada a Lei da Transparência que diz que tal solicitação deverá ser atendida em até 20 dias e prorrogável por no máximo 10 dias. 
+"	29/08/2014	"Prezado(a) Senhor(a), 
+ 
+Ref. Pedido de Informação nº 009/2014 - CPSIC/TJPE
+ 
+Conforme informações prestadas, no corrente mês, pela Secretaria de Gestão de Pessoas deste TJPE, os cargos efetivos da Instituição são criados para todo o Estado, não especificando o Polo. Informa, ainda, que o concurso público está vigente até 21 de março do ano de 2016. Segue, em arquivo anexo, planilha demonstrativa fornecida pela supracitada Secretaria.
+"	SIM                     Pedido de Informação nº 009/2014
+010	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	01/09/2014	"Venho por meio deste solicitar através da Lei da Transparência  o quantitativo de cargos criados e vagos para ANALISTA JUD - APJ/ASS.SOCIAL 
+
+"	02/09/2014	"Prezado(a) Senhor(a), 
+ 
+Ref. PEDIDO DE INFORMAÇÃO Nº 010/2014 - CPSIC - TJPE
+ 
+Segue, em arquivo anexo, planilha atualizada fornecida pela Secretaria de Gestão de Pessoas deste TJPE.
+ 
+"	SIM                     Pedido de Informação nº 010/2014
+011	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	22/09/2014	Gostaria, por gentileza, de ter a informação de quantos cargos vagos e não preenchidos há no polo 3, região metropolitana II. Solicito mui respeitosamente a informação por não ter conseguido obter no site do TJPE uma lista com nomes de servidores em cada vara, assim como existia na antiga página do tribunal.	22/09/2014	"Prezado(a) Senhor(a), 
+ 
+Ref. Pedido de Informação nº 011/2014 - CPSIC/TJPE
+ 
+Conforme informações prestadas, no mês de agosto passado, pela Secretaria de Gestão de Pessoas deste TJPE, os cargos efetivos da Instituição são criados para todo o Estado, não especificando o Polo. Informa, ainda, que o concurso público está vigente até 21 de março do ano de 2016. Segue, em arquivo anexo, planilha demonstrativa fornecida pela supracitada Secretaria.
+ 
+"	SIM                     Pedido de Informação nº 011/2014
+012	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	26/09/2014	"Prezados Srs.:
+Gostaria de solicitar junto a este Tribunal ? com base na Lei de Acesso à Informação ? uma listagem de todos os processos detalhados, na primeira instância, baixados e não-baixados, relativos ao assunto ?Recuperação Judicial, extrajudicial e Falência de empresas?. Favor enviar lista com a numeração dos processos distribuídos à partir do ano de 2000. 
+ 
+"	03/10/2014	"Re. Pedido de Informação nº 0012/2014
+ 
+Em atendimento ao Pedido de Informação registrado neste Órgão sob o número em epígrafe, encaminhamos arquivo anexo.
+ 
+Atc.,
+
+Ouvidoria Geral da Justiça 
+"	SIM                     Pedido de Informação nº 012/2014
+013	Pedido de Informações	Encaminhada	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	26/09/2014	": Boa Tarde,
+Estou ciente de que no Portal de Transparência Ativa deste Tribunal são disponibilizados os detalhamentos da folha de pagamento de magistrados separado por mês, no formato estipulado pela Resolução 102 do Conselho Nacional de Justiça.
+Diante disto, venho com base na lei 12.527 solicitar as planilhas de detalhamento da folha de pagamento de magistrados, para todos os meses dos anos de 2012 e de 2013, em formato processável por máquina, o qual pode ser .xls ou ponto .xlsx (excel), ou algum outro formato processável por máquina. Afinal, o formato utilizado pelo Portal de Transparência deste tribunal, qual seja, .pdf, não é processável por máquina, impedindo a análise apropriada dos dados.
+Vale ressaltar que a elaboração das planilhas de detalhamento da folha de pagamento de magistrados certamente demandou que fosse utilizado excel ou algum software livre semelhante, pois é impossível organizar estes dados a partir de um documento pdf. Logo, pode-se supor que este órgão possui os dados em questão no formato solicitado, não havendo qualquer argumento legítimo para a recusa ao fornecimento  da informação.
+Ademais, o incisos II e III do parágrafo 3º do Art. 8º da Lei 12.527 reforça a importância de que as informações contidas nos Portais de Transparência Ativa de órgãos submetidos à lei sejam disponibilizadas em formato aberto e processável por máquina.
+"	03/10/2014	www.tjpe.jus.br/consultasalario/xhtml/manterConsultaSalario/geralConsultaSalario.xhtml	
+014	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	02/10/2014	"Faço parte de um grupo de pesquisas que estuda gastos públicos em órgãos do Poder Judiciário e gostaria de obter as seguintes informações com base na Lei 12.527:
+Qual foi o orçamento deste Tribunal nos anos de 2012 e 2013? Solicito, ainda que sejam detalhados os montantes destinados à compra de bens e à contratação de serviços e os montantes destinados ao pagamento de custos com recursos humanos.
+
+   
+"	05/10/2014	"Prezado Senhor,
+ 
+Ref. Pedido de Informação nº 014/2014
+ 
+Os dados solicitados por V.Sa. já se encontram disponibilizados para consulta no Link Transparência do sítio Oficial deste TJPE. Seguem ""sublinks"":
+ 
+www.tjpe.jus.br/web/transparencia/orcamentos-e-financas/receitas-e-despesas
+www.tjpe.jus.br/web/transparencia/orcamentos-e-financas/acompanhamento-acoes
+www.tjpe.jus.br/web/transparencia/contas-publicas
+ 
+"	
+015	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	02/10/2014	"Gostaria de solicitar, com base na Lei 12.527, o seguinte: Qual foi a quantidade total de novas ações que foram ajuizadas na 1ª instância deste Tribunal nos anos de 2012 e 2013?
+
+
+"	06/10/2014	"Prezado Senhor,
+
+Ref. Pedido de Informação nº 015/2014
+
+Ano 2013: 313.407 (trezentas e treze mil, quatrocentas e sete)  novas ações.
+Ano:2012: 384.922 (trezentos e oitenta e quatro mil, novecentas e vinte e duas) novas ações.
+
+"	
+016	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/10/2014	Bom Dia. Gostaria de saber qual a numeração exata de funcionários das prefeituras a disposição do TJPE mais precisamente do Polo 9 agreste 2 pois, foi feito levantamento para esse fato e não foi disponibilizado para que o aprovados no último concurso não tiveram informação a essa transparência de cadastro. Gostaria de saber como posso ter acesso a essas informações caso não seja possível qual o meio para obtê-las.	09/10/2014	"Prezado(a) Senhor(a), 
+ 
+Ref: PEDIDO DE INFORMAÇÃO Nº 016/2014
+ 
+Segue link com as informações pertinentes:
+ 
+www.tjpe.jus.br/documents/72267/83355/Servidores+por+Lota%C3%A7%C3%A3o+-+2014/ad53d83f-258b-471d-9e0d-533c98b6278b?version=1.0
+ 
+Atc.,
+
+Ouvidoria Geral da Justiça 
+
+"	
+017	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	15/10/2014	"Venho solicitar, por meio deste registro, valendo-me do direito garantido pela lei 12. 527/2011, informações (no 1º e 2º graus) sobre: a quantidade de juízes e Desembargadores em todo o Estado; o nome dos cargos/auxiliares  e a quantidade de dentro das escrivanias (escreventes/Analistas e escrivães) de todo o Estado. No caso dos escreventes/analistas apenas, gostaria de saber o salário base e se há ou auxílios como moradia, alimentação?"	20/10/2014	"Prezado(a) Senhor(a), 
+
+REF:  PEDIDO DE INFORMAÇÃO Nº 017/2014 - CPSIC/TJPE 
+
+Os dados solicitados por V.Sa podem ser consultados no Portal da Transparência deste TJPE. Segue, abaixo, LINK:
+ www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratória
+
+Atc.,
+
+Ouvidoria Geral da Justiça 
+"	
+018	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	12/11/2014	"Olá!
+Gostaria de obter as seguintes informações:
+
+- Número de mandados de prisão expedidos no ano de 1990, por crime. Favor informar quantos foram cumpridos, quantos expiraram e quantos aguardam cumprimento. 
+
+- Número de mandados de prisão expedidos no ano 2000, por crime.  Favor informar quantos foram cumpridos, quantos expiraram e quantos aguardam cumprimento.
+
+- Número de mandados de prisão expedidos entre os anos de 2004 e 2014, ano a ano e por crime.  Favor informar quantos foram cumpridos, quantos expiraram e quantos aguardam cumprimento. 
+
+Para deixar claro: de cada ano informado acima, solicito o número total de mandados de prisão expedidos naquele ano, bem como a informação, em relação ao número total, de quantos foram cumpridos, quantos expiraram e quantos aguardam cumprimento. Solicito ainda, em relação a cada um dos anos citados acima, a informação sobre o crime. Ou seja, do total de cada ano solicitado, quantos mandados de quais crimes foram expedidos.
+
+Aguardo resposta, bem como um número de protocolo para acompanhamento.
+
+Obrigada!
+
+"	02/12/2014	"Prezado(a) Senhor(a), 
+
+Ref: Pedido de Informação nº 018/2014 - CPSIC/TJPE
+
+Segue, em arquivo anexo, informações solicitadas a este Tribunal de Justiça do Estado de Pernambuco.  Na oportunidade, informo que não foram encontrados dados para o ano de 1990 no sistema interno deste TJPE. Outrossim, ressaltamos que o efetivo cumprimento dos mandados de prisão expedidos não é da competência deste Judiciário Estadual.
+
+Atenciosamente.
+
+Ouvidoria Geral da Justiça 
+"	SIM                      Pedido de Inofrmação nº 018/2014
+019	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	12/11/2014	"Venho por meio deste solicitar através da Lei da Transparência, a informação:
+Baseado no quantitativo de cargos vagos para ANALISTA JUD - APJ/ASS.SOCIAL que são 76.....que foram informados através da ouvidoria....gostaria de saber.... esses cargos vagos (76) são para qual localidade? Onde podem ser alocadas essas 76 vagas para ANALISTA JUD - APJ/ASS.SOCIAL ?
+
+Desde já agradeço!
+
+"	15/04/2014	"Prezado(a) Senhor(a),
+
+ 
+
+Ref. Pedido de Informação nº 019/2014 - CPSIC/TJPE
+
+ 
+
+Conforme informações prestadas pela Secretaria de Gestão de Pessoas deste TJPE, os cargos efetivos da Instituição são criados para todo o Estado, não especificando o Polo.
+
+ Atenciosamente.
+
+Ouvidoria Geral da Justiça
+"	
+020	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	20/11/2014	"Prezados,
+
+Vimos por meio deste solicitar os dados seguintes a fim de completar as informações do releasing de coletiva de imprensa a ser realizada no dia 25/11/2014. A coletiva de imprensa é uma promoção da Câmara Técnica de Enfrentamento da Violência de Gênero contra as Mulheres do Pacto pela Vida. 
+
+Necessitamos dos seguintes dados do TJPE:
+1) Número de processos em andamento (inconclusos) das Varas de Violência Doméstica e Familiar contra a Mulher de PE. Valor total. Não há necessidade de desagregar por Vara, embora possa enriquecer consideravelmente a informação.
+2) Número total de Medidas Protetivas de Urgência deferidas nos últimos oito anos, nas Varas de Violência Doméstica e Familiar contra a Mulher.
+
+Certos de sermos contemplados no pleito, agradecemos antecipadamente.
+"	21/112014	"Prezado(a) Senhor(a), 
+
+Ref. Pedido de Informação nº 020/2014
+
+
+Enviamos informações solicitadas. Salientamos, no entanto, conforme destacado pela SETIC/TJPE, que não há como extrair, no prazo solicitado, um relatório das medidas protetivas de urgência deferidas, pois a informação se o pedido foi deferido ou não encontra-se no texto da movimentação (sentença ou despacho). Desta forma, contabilizamos todos os pedidos relativos as medidas protetivas de urgência autuados desde 2007, mas não necessariamente deferidos.
+
+Atenciosamente.
+
+Ouvidoria Geral da Justiça 
+
+"	SIM                      Pedido de Inofrmação nº 020/2014
+021	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	21/11/2014	"Solicito as seguintes informações sobre o Ato nº 1488/14-SGP, de 21/11/2014, publicado no DJE de 24/11/2014:
+
+1) Qual a lotação anterior da servidora TATIANA TAVARES PENNA RISPOLI, mat. 1795856;
+2) A nova lotação se deu a pedido ou decorreu de outro motivo.
+"	26/11/2014	"Prezado(a) Senhor(a), 
+ 
+Ref. PEDIDO DE INFORMAÇÃO Nº 021/2014 - CPSIC-TJPE
+ 
+Seguem, abaixo, informações prestadas pela Secretaria de Gestão de Pessoas deste TJPE:
+ 
+Lotação Anterior: DIRETORIA CÍVEL
+Nova Lotação: Necessidade da Administração.
+ 
+Atc.,
+
+Ouvidoria Geral da Justiça 
+"	
+022	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	04/12/2014	"Olá!
+Gostaria de solicitar as seguintes informações:
+De todos os processos criminais que chegaram ao fim na Justiça estadual de 2000 a 2014, quantos tiveram sentença condenatória, quantos foram absolvitórios e quantos prescreveram? Favor informar o dado ano a ano.
+Dentre as sentenças condenatórias, quais foram os crimes, ano a ano. (ex. No ano 2000, houve x sentenças condenatórias por furto, x por assassinato...)
+
+
+Aguardo resposta, bem como um número de protocolo para acompanhamento.
+
+Obrigada!
+"	14/01/2015	"Prezada Senhora,
+
+ Ref.: Pedido de Informação nº 022/2014 - CPSIC/TJPE
+
+De ordem do Excelentíssimo Senhor Desembargador Ouvidor Geral da Justiça em exercício, informamos a V.Sa. que devido a complexidade da solicitação, não foi possível o encaminhamento das informações em tempo hábil. Na oportunidade, informamos ainda, que o arquivo que consta as informações solicitadas por V.Sa. excede o limite máximo de 10MB para o envio através de endereço/correio eletrônico (e-mail). Desse modo, solicitamos o comparecimento de V.Sa. nesta Ouvidoria Geral da Justiça para retirada/recebimento das informações gravadas em mídia (CD).
+
+ Fórum Thomaz de Aquino Cyrillo Wanderley
+Avenida Martins de Barros, 593 – 2º andar – Santo Antônio – Recife/PE
+CEP: 50.010-230 – Telefone: (81) 3419.3638 / 0800-081.5251
+
+ Atenciosamente.
+Ouvidoria Geral da Justiça 
+"	SIM                      Pedido de Informação nº 022/2014
+023	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	04/12/2014	"Boa tarde, gostaria de saber a quantidade de cargos criados por lei para Técnico Judiciário/TPJ-Suporte Técnico para o polo Agreste Central I/Caruaru e a quantidade de cargos vagos para o mesmo ?
+
+"	15/12/2014	"Prezado(a) Senhor(a), 
+ 
+Ref. Pedido de Informação nº 023/2014 - CPSIC/TJPE
+ 
+Conforme informações prestadas pela Secretaria de Gestão de Pessoas deste TJPE, os cargos efetivos da Instituição são criados para todo o Estado, não especificando o Polo. Informa, ainda, que o concurso público está vigente até 21 de março do ano de 2016. 
+ 
+Atc., 
+
+Ouvidoria Geral da Justiça 
+"	

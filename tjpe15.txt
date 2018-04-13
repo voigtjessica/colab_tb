@@ -1,0 +1,671 @@
+Pedido Nº	Tipo	Situação	Categoria	Título	Data de cadastro	Descrição	Data de conclusão	Resposta da Ouvidoria	RESPOSTAS COM ANEXO
+001	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	02/01/2015	Gostaria de saber quantos cargos vagos existem para Juiz Substituto e Juiz de 1ª entrância. 	19/01/2015	"Informo que, na data de hoje, na 1ª Entrância, existem 27 cargos vagos de Juiz Substituto, a serem providos por concurso (COJE - LC nº 100, de 21/11/2007 prevê o quantitativo de 55 cargos de JS para a 1ª Entrância); 61 Comarcas Vagas (cujos cargos foram oferecidos para nomeação, haja vista os editais de Remoção terem restado sem concorrentes) e 01 cargo de Juiz de Direito a ser provido por REMOÇÃO (Edital nº 71/14-RA - Cargo de Juiz de Direito da Comarca de Rio Formoso - Edital pendente de julgamento).
+
+Por oportuno, informo que a partir do dia 02.02.2015, estes números serão totalmente alterados, em virtude do exercício dos novos magistrados, bem como do exercício dos magistrados promovidos/removidos."	
+002	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	05/01/2015	"Solicito o envio em meio digital da relação dos imóveis existentes na cidade do Recife identificados como em risco de desabamento em que há decisão judicial para demolição parcial ou total.
+"	02/02/2015	"Prezado(a) Senhor(a),
+
+Ref. Pedido de Informação nº 002/2015
+Segue, abaixo, resposta ao seu pedido de informação registrado neste CPSIC/TJPE sob o número em epígrafe.
+
+""1. O Judiciário não registra no seu sistema o imóvel, e sim o proprietário do imóvel. Assim, não é possível a busca da informação por imóvel.
+2. A identificação do imóvel e o resultado da ação (demolição, demolição parcial, etc) devem estar contidos no texto da respectiva sentença. Desta forma, para se extrair a informação, seria necessário identificar todos os processos desta natureza (sendo necessário um estudo específico para identificar as classes e assuntos pertinentes),  e, em seguida, ler e interpretar cada sentença.
+Diante deste cenário, não é viável uma automatização para extração das informações solicitadas.""
+
+Atc.,
+Ouvidoria Geral da Justiça/CPSIC-TJPE
+"	
+003	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	12/01/2015	"Usuário, com base na Lei nº 12.527/2011, solicita: ""FORNECIMENTO DE CÓPIA, DE ADITIVO VIGENTE DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS, No. 101/2012, ENTRE TRIBUNAL DE JUSTIÇA DE PERNAMBUCO E EMPRESA SUPRISERVI COM REP E SERVIÇOS E OU SUCESSORA"""	15/01/2015	"Prezado Senhor,
+
+Em resposta à sua solicitação, registrada nesta Ouvidoria sob o número em epígrafe, vimos por meio desta, encaminhar a V.Sa cópias do Termo Aditivo do Contrato de Prestação de Serviços celebrado entre o Tribunal de Justiça do Estado de Pernambuco e a empresa Supriservi Comércio Representações e Serviços LTDA.
+Na expectativa de termos prestado as informações solicitadas acerca do referido pleito, agradecemos a confiança depositada, e nos colocamos à disposição para quaisquer esclarecimentos que se fizerem necessários através da Ouvidoria Geral da Justiça, telefone 0800-0815251, por carta, ou pelo e-mail: ouvidor@tjpe.jus.br.
+
+Atenciosamente.
+
+Ouvidoria Geral da Justiça
+
+"	SIM                   Pedido de Informação nº 003/2015
+004	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	22/01/2015	Solicito, por gentileza, cópia do Contrato de prestação de serviços para gerenciamento da folha de pagamento dos servidores e magistrados deste Poder.	26/02/2015	"Prezado(a) Senhor(a), 
+
+Ref. PEDIDO DE INFORMAÇÃO Nº 004/2015 - CPSIC/TJPE
+
+Seguem, abaixo, informações fornecidas pela Secretaria de Gestão de Pessoas deste TJPE, acerca do seu Pedido de Informação com base na LAI, registrada sob o nº 004/2015.
+
+""Informamos que o TJPE adquiriu um sistema para processamento da folha de pagamento - UNIVERSALRH. Deste modo, o gerenciamento dos dados é feito por servidores do próprio quadro do Tribunal. A empresa fornecedora do sistema efetua para todos os clientes do seu produto as atualizações definidas pelas legislações e envia para cada cliente efetivar essas atualizações. Em casos específicos, atende às demandas solicitadas por seus clientes.""
+"	
+005	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/03/2015	"Sou odontóloga do Tribunal de Justiça de Mato Grosso do Sul e necessito das seguintes informações:
+
+1) Qual o salário do médico e do odontólogo do TJPE?
+2) Qual o valor do adicional de insalubridade? Como é calculado esse adicional?
+
+Procurei no Portal da Transparência, porém não consegui visualizar exatamente o valor do adicional de insalubridade e como ele é calculado (é uma porcentagem em cima do salário base?).
+
+Agradeço antecipadamente,
+"	30/03/2015	"Salário base: R$ 1.509,25
+Gratificação de Exercício : R$ 1.509,05
+Gratificação de Incentivo a Produtividade: R$ 1.810,86 TOTAL: R$ 4.828, 96. Auxilio Alimentação R$ 745,50. Auxílio Transporte 151,80. TOTAL: R$ 5.726,26"	
+006	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	05/03/2015	"Prezado Senhor Ouvidor, boa noite!
+Faço parte da comissão dos membros dos aprovados no concurso de servidores/2011 deste Tribunal. Tal comissão visa buscar transparência no que concerne ao preenchimento do quadro de pessoal e constatar o déficit de funcionários por Varas. Tal informação é imprescindível para que possamos pleitear por mais nomeações e fazer com que o Tribunal de Justiça de Pernambuco atenda aos princípios da efetividade no serviço e da celeridade processual, tudo isso o faço em conformidade às prerrogativas da Lei de Acesso à Informação (Lei Federal nº 12.527/11).
+No mês de fevereiro do corrente ano, realizamos um levantamento em algumas varas e constatamos a carência de servidores. Com a divisão das varas cíveis, foi estipulado que cada uma deve ter 6 servidores. Mas as demais continuam com 9 servidores.
+De acordo com a pesquisa feita no dia 23/02, das 34 varas cíveis da seção A, 30 estão completas, com 6 servidores entre técnicos e analistas, e 4 estão com déficit de 1 servidor cada (5ª, 7ª, 23ª e 29ª).
+ 
+Cargos vagos no dia 24/02:
+
+(01) 5ª Vara Cível seção A;
+(01) 7ª Vara Cível seção A;
+(01) 23ª Vara Cível seção A;
+(01) 29ª Vara Cível seção A;
+(01) 1ª Vara Cível seção B;
+(01) 8ª Vara Cível seção B;
+(01) 13ª Vara Cível seção B;
+(02) 17ª Vara Cível seção B;
+(01) 19ª Vara Cível seção B;
+(01) 20ª Vara Cível seção B;
+(01) 28ª Vara Cível seção B;
+(01) 31ª Vara Cível seção B; 
+(01) 2ª Vara de Família;
+(02) 3ª Vara de Família;
+(03) 4ª Vara de Família;
+(01) 5ª Vara de Família;
+(02) 9ª Vara de Família;
+(01) 11ª Vara de Família;
+(01) 12ª Vara de Família;
+(01) 1ª Vara da Fazenda Pública;
+(01) 2ª Vara da Fazenda Pública;
+(01) 3ª Vara da Fazenda Pública;
+(01) 4ª Vara da Fazenda Pública; 
+(01) 6ª Vara da Fazenda Pública;
+(01) 7ª Vara da Fazenda Pública;
+(01) 5º Juizado Especial Cível;
+(02) Vara Regional da Infância e Juventude;
+(01) 2ª Vara de Executivos Fiscais Estaduais;
+(01) 4ª Vara Criminal;
+(01) 5ª Vara Criminal;
+(01) 6ª Vara Criminal;
+(01) 7ª Vara Criminal;
+(01) 8ª Vara Criminal;
+(01) 10ª Vara Criminal;
+(02) 12ª Vara Criminal
+
+Em assim sendo, com arrimo na lei supracitada, desejamos que seja informado o quantitativo de cargos vagos atualmente, para os cargos de Técnico Judiciário (TPJ) e Analista Judiciário (APJ), salientando, no último, a especialidade, se for o caso. Outrossim, solicita-se que seja inteirado quantos cargos restam pendentes de nomeação em virtude da Lei Estadual nº 14.684 de 2012.
+
+Agradecemos desde já a sua colaboração.
+"	30/03/2015	"Prezado(a) Senhor(a), 
+
+Ref. PEDIDO DE INFORMAÇÃO Nº 006/2015 - CPSIC/TJPE
+
+Segue, em arquivo anexo, resposta ao seu pedido de informação registrado sob o número em epígrafe.
+
+Atc,.,
+
+Ouvidoria Geral da Justiça 
+
+"	SIM                   Pedido de Informação nº 006/2015
+007	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	31/03/2015	"SOLICITO A RELAÇÃO COMPLETA POR NÚMERO DOS PROCESSOS QUE NÃO ESTEJAM PROTEGIDOS POR SEGREDO DE JUSTIÇA EM QUE ATUOU E ATUA O MAGISTRADO EMANUEL BONFIM CARNEIRO AMARAL FILHO ATUALMENTE NO 13° JUIZADO CÍVEL E DAS RELAÇÕES DE CONSUMO DA CAPITAL DESDE QUE INGRESSOU NOS QUADROS DA MAGISTRATURA DO TJPE.
+
+"	29/04/2015	"Prezado(a) Senhor(a), 
+ 
+Ref. Pedido de Informação nº 007/2015 - CPSIC/TJPE.
+ 
+De ordem do Des. Ouvidor Geral da Justiça e Gestor do CPSIC/TJPE, levo ao conhecimento de V.Sa o que segue:
+ 
+Considerando que este Órgão não possui as informações solicitadas, vimos por meio deste, com fulcro no Artigo 11, § 1º, inciso III da LAI, comunicar  a V.Sa que tais dados podem ser requeridos (CERTIDÃO) diretamente junto à Secretaria da Unidade Judicial competente (13° JUIZADO CÍVEL E DAS RELAÇÕES DE CONSUMO DA CAPITAL). 
+ 
+Atenciosamente.
+
+Ouvidoria Geral da Justiça - CPSIC/TJPE
+"	
+008	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	23/04/2015	"Usuário, com base na Lei nº 12.527/2011, solicita as seguintes informações (cópia do e-mail em anexo):
+(PEDIDO DE INFORMAÇÃO Nº 008/2015 - CPSIC/TJPE)
+
+""1-Qauntitativo de servidores (com especificação de cargos e funções) lotados nas comarcas integrante do polo Agreste Setentrional (Bom Jardim, Cumuru,Feira Nova, João Alfredo, Limoeiro, Orobó, Passira, Santa Cruz do Capibaribe, Santa Maria do Cambucá, São Vicente Férrer, Surubim, Taquaritinga do Norte, Toritama e Vertentes), vide edital nº 01/2011;
+
+2-Qauntitativo de servidores (com especificação de cargos e funções) selecionados destas comarcas que manifestaram opção e foram selecionados para exercerem suas funções nas unidades judiciárias de Recife, nos termos edital nº 04/2014;
+
+3-Qauntitativo de servidores (com especificação de cargos e funções) das comarcas indicadas no item '1' que pediram exoneração, vacância ou foram removidos por motivo diverso da seleção acima indicada, após a data da propositura do projeto que culminou na promulgação da Lei Complementar nº 279/2014.""
+
+"	23/04/2015	"Prezado(a) Senhor(a), 
+PEDIDO DE INFORMAÇÃO Nº 008/2015 - CPSIC-TJPE
+ 
+De ordem do Des. Ouvidor Geral da Justiça e Gestor do CPSIC/TJPE, segue em arquivo anexo, resposta ao seu pedido de informação registrado nesta Ouvidoria sob o número em epígrafe.
+ 
+Atc.,
+ 
+
+Ouvidoria Geral da Justiça 
+"	SIM                   Pedido de Informação nº 008/2015
+009	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	06/05/2015	"Venho por meio deste pedir a informação, através da lei do acesso a informação,  sobre os cargos vagos existentes no TJ PE para o cargo de Analista Judiciário - Apoio Especializado Assistente Social, em virtude da criação dos cargos através da Lei Complementar 100 de 2004 e com alterações da Lei complementar 298 de 10 de março de 2015, na qual sinaliza um total de 164 cargos criados, porém gostaria de saber quantos cargos efetivamente estão VAGOS e  as localidades que estes cargos estão Vagos? 
+
+CARGOS EFETIVOS CRIADOS PELA LEI COMPLEMENTAR Nº 100, DE 21 DE NOVEMBRO DE 2007, COM AS ALTERAÇÕES REALIZADAS POR ESTA LEI COMPLEMENTAR
+Cargos
+ Quantitativo
+
+Analista Judiciário, símbolo APJ - Função Judiciária e Administrativa
+ 471
+
+Técnico Judiciário, símbolo TPJ - Função Judiciária e Administrativa
+ 1.266
+
+Oficial de Justiça, símbolo OPJ - Função Judiciária e Administrativa
+ 390
+
+Analista Judiciário, símbolo APJ - Função Apoio Especializado (Assistente Social)
+ 164
+
+Analista Judiciário, símbolo APJ - Função Apoio Especializado (Psicólogo)
+ 164
+
+Analista Judiciário, símbolo APJ - Função Apoio Especializado (Pedagogo)
+ 34
+
+"	28/05/2015	"Prezada Senhora
+ 
+Ref.: Pedido de Informação nº 009/2015 - CPSIC/TJPE
+ 
+De ordem do Excelentíssimo Senhor Desembargador Ouvidor Geral da Justiça e gestor do CPSIC/TJPE, encaminhamos, em arquivo anexo, resposta ao seu  Pedido de Informação com base na LAI.
+ 
+Atenciosamente.
+
+Ouvidoria Geral da Justiça 
+"	SIM                   Pedido de Informação nº 009/2015
+010	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	16/05/2015	Gostaria de saber a quantidade de oficiais de justiça, aprovados no ultimo concurso do TJPE em 2012, foram nomeados para o Pólo de Classificação 08 - Agreste Central I e quantas vagas há vagas para preenchimento. 	28/05/2015	"O edital 01/2001 apresentou 03 vagas para o cargo de Oficial de Justiça/OPJ, polo de classificação 08 - Agreste CentralI.  Até a presente data, foram nomeados 19 candidatos da listagem geral, e destes 13 tomaram posse e assimiram o efetivo exercício; da listagem de pessoas com deficiência/PCD 01 foi nomeado e tomou posse e assumiu o efetivo exercício. As nomeações, além, das oferecidas no edital, ficam a critério da Adminsitração Superior, atendendo as necessidades institucionais, atreladas a dotação orçamentária e em cumprimento à Lei de Responsabilidade Fiscal. 
+
+"	
+011	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	16/06/2015	"Venho por meio deste pedir a informação, através da lei do acesso a informação, solicitar maiores detalhes sobre os cargos  criados para a função Analista Judiciário - Apoio Especializado Assistente Social. Assim como a  Lei complementar 298 de 10 de março de 2015, criou 8 cargos de Assistente Social.  Gostaria de  saber se nos anos, 2012,2013 e 2014, também tiveram criação de outros. E se existiu outras alterações/criações. Quais as respectivas leis que os criaram?
+
+
+Grata,
+"	22/06/2015	"Prezado(a) Senhor(a), 
+ 
+Ref. Pedido de Informação nº 011/2015 (Criação de Cargos - Analista Juidiciário/Assistente Social
+ 
+Segue, abaixo, resposta ao seu pedido de informação registrado neste Órgão sob o nº em epígrafe:
+ 
+1) A Lei complementar nº 100, de 21.11.2007, criou 144 (cento e quatenta e quatro) cargos de Analista Judiciário/Assistente Social, em virtude das Undades Judiciárias criadas pela referida Lei;
+ 
+2) A Lei complementar nº 298, de 10.03.2015, apresentou, em seu quadro de cargos criados, 164 (cento e sessenta e quatro) cargos de Analista Judiciário/Assistente Social, alterando o quantitativo de cargos criados pela Lei complementar nº 100.
+ 
+Atenciosamente.
+
+Ouvidoria Geral da Justiça/CPSIC/TJPE 
+"	
+012	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	12/06/2015	"Senhores, gostaria de saber se existem terceirizados, e quantos são, ocupando o cargo de Suporte Técnico ou exercendo essa função na região do vale do São Francisco.
+Desde já, agradeço a atenção! 
+
+"	07/07/2015	"Prezado(a) Senhor(a), 
+Ref. Pedido de Informação nº 012/2015 - CPSIC/TJPE
+ 
+Segue, abaixo, resposta da Secretaria de Tecnologia da Informação e Comunicação deste TJPE, datada do dia 06 (seis) do corrente mês:
+ 
+""Prezados, Esclareço que não existem terceirizados exercendo a função de Técnico Judiciário - TPJ/Suporte Técnico no Pólo 15 - Sertão do São Francisco. Atualmente, este pólo conta com 4 (quatro) servidores efetivos exercendo esta função. Atenciosamente, Juliana Neiva, Secretária de Tecnologia da Informação e Comunicação, Tribunal de Justiça de Pernambuco"" 
+
+Atenciosamente.
+
+Ouvidoria Geral da Justiça- CPSIC/TJPE 
+"	
+013	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	15/07/2015	"Bom dia!
+Gostaria de receber de forma analítica(VARA, COMARCA,ETC) a quantidade funcionários efetivos, à disposição do tribunal via convênios, contratados, terceirizados e cedidos para outras instituições. Como também a quantidade de cargos criados e vagos para os efetivos. E estas informações são para o POLO 06-MATA NORTE  TJ-PE.
+
+"	19/08/2015	"Prezado(a) Senhor(a),  
+
+Ref. Pedido de Informação nº 013/2015 - CPSIC-TJPE
+
+Segue, em arquivo anexo, resposta ao seu pedido de informação registrado nesta Ouvidoria Geral da Justiça - CPSIC/TJPE sob o nº 013/2015.
+
+Atc.,  
+
+Ouvidoria Geral da Justiça 
+
+"	SIM                   Pedido de Informação nº 013/2015
+014	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	21/07/2015	"Prezado Dr./a Ouvidor/a, boa noite!
+ 
+Considerando a constatação fática da comissão de aprovados no último concurso do TJPE, realizado em 2012, de que existem diversos cargos vagos de servidores na comarca do Recife, venho, através do presente, por intermédio das prerrogativas da Lei de Acesso à Informação (Lei Federal nº 12.527/11), requerer que seja informado:
+
+1) o quantitativo de cargos vagos atualmente (Técnico Judiciário e Analista Judiciário, salientando, no último, a especialidade, se for o caso) por vara e seção na comarca do Recife;
+2) natureza do cargo dos servidores lotados por vara e seção (se técnico ou analista), indicando quantitativo de cada categoria por vara e seção.
+
+Outrossim, solicita-se que seja inteirado se ainda restam cargos pendentes de nomeação, por razão da Lei Estadual nº 14.684 de 2012.
+"	19/08/2015	"Prezado(a) Senhor(a),  
+
+Ref. Pedido de Informação nº 014/2015 - CPSIC/TJPE
+
+Segue, em arquivo anexo, resposta aos seu pedido de informação registrado nesta Ouvidoria Geral da Justiça sob o nº 014/2015 - CPSIC/TJPE.
+
+Atc.,  
+
+Ouvidoria Geral da Justiça 
+"	SIM                   Pedido de Informação nº 014/2015
+015	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	06/08/2015	GOSTARIA DE SER INFORMADO PELO TJ-PE, DA QUANTIDADE DE SERVIDORES CEDIDOS POR OUTROS ÓRGÃOS E TERCEIRIZADOS QUE ATUALMENTE EXERCEM SUAS FUNÇÕES NOS CARTÓRIOS DAS COMARCAS DA REGIÃO MATA SUL I, TENDO EM VISTA QUE ESTA INFORMAÇÃO É DE FUNDAMENTAL IMPORTÂNCIA PARA MIM. RESPEITOSAMENTE, GIVALDO JÚNIOR.	25/08/2015	"Prezado(a) Senhor(a),  
+
+Ref: PEDIDO DE INFORMAÇÃO Nº 015/2015 - CPSIC/TJPE
+
+Segue, em arquivo anexo, reposta ao seu pedido de informação registrado neste Órgão sob o nº 015/2015 - CPSIC/TJPE. Na oportunidade, informarmos a V.Sa. que não há servidores terceirizados exercendo funções nas secretarias judiciais deste TJPE.   
+
+Atc.,
+
+Ouvidoria Geral da Justiça - CPSIC/TJPE
+"	SIM                   Pedido de Informação nº 015/2015
+016	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	07/08/2015	"Solicito o número de cargos vagos nas Comarcas de Jaboatão dos Guararapes, Cabo de Santo Agostinho, Moreno e Ipojuca, como também o número de servidores das Prefeituras Municipais ou outros órgãos cedidos ao TJPE para prestar serviços nestas comarcas.
+Certo da resposta, agradeço desde já.
+
+"	28/08/2015	"Prezado(a) Senhor(a),  
+
+Ref. PEDIDO DE INFORMAÇÃO Nº 016/2015 - CPSIC-TJPE
+
+Segue, abaixo, resposta ao seu pedido de informação, com base na LAI, registrado nesta Ouvidoria sob o nº em epígrafe.
+1. Quantitativo de cargos vagos nas Comarcas indicadas pela requerente: 
+Sobre a solicitação da Usuária, informo que atualmente só estamos fazendo as reposições, ou seja, só está ocorrendo nomeação para todos os polos em virtude de exoneração, aposentadoria ou falecimento, pois não temos cargos vagos.
+
+Atenciosamente,
+Gerência de Seleção e Acolhimento/DDH/SGP.
+2. Número de servidores das Prefeituras Municipais ou outros órgãos cedidos ao TJPE para prestar serviços nestas comarcas:
+
+Atc.,
+
+Ouvidoria Geral da Justiça 
+
+"	
+017	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	10/08/2015	"Usuário requer certidão sobre a senhora xxxxx de seguinte teor: 1. Se a referida senhora é integrante do quadro de servidores do TJPE; 2. Se positiva a resposta anterior, pede: a) qual a matricula funcional da referida servidora, o cargo que ocupa, se exerce função de confiança e qual sua lotação; b) Se a referida servidora se encontra em estágio probatório, qual o ato de seu provimento no cargo e a data da sua respectiva publicação."	18/08/2015	Resposta encaminhada ao solicitante diretamente pela Secretaria de Gestão de Pessoas, SGP.	SIM                   Pedido de Informação nº 017/2015
+018	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	01/09/2015	"Boa tarde, prezados
+Gostaria de obter informações relativas a quantidade de cargos vagos de servidores efetivos do TJPE existente atualmente.
+"	02/09/2015	"Prezada Senhor,
+
+Ref.: Registro nº 05204/2015
+
+De acordo com informações prestadas, em 27/08/2015, pela Assessoria Técnica da Secretaria de Gestão de Pessoas - SGP, atualmente não existem cargos vagos no âmbito do Tribunal de Justiça de Pernambuco, só estão ocorrendo nomeações para todos os polos em virtude de exoneração, aposentadoria ou falecimento.
+
+Atenciosamente, 
+
+Ouvidoria Geral da Justiça 
+
+"	
+019	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	29/08/2015	"Bom dia, conforme solicitado, segue meu número de identificação pessoal e os quesitos referentes à informação que solicitei. 
+1. Em ações judiciais na esfera cível, caso o juiz necessite de perito para elucidação da causa, existe alguma forma de credenciamento prévio do perito ad hoc, como banco de dados próprio ou solicitação ao órgão de classe profissional? 
+2. Caso exista um credenciamento prévio, existe alguma relação de documentos que deva ser entregue? Qual o protocolo seguido para tal credenciamento? (virtual, pessoalmente, etc). Solicito documentação comprobatória.
+3. Nos casos de beneficiários de justiça gratuita com necessidade de realização de prova pericial, este tribunal reserva alguma cifra para pagamento conforme a recomendação da resolução 127 do CNJ? Caso seja o estado que pague a perícia nesses casos, há alguma tabela de valores para pagamento?
+"	14/09/2015	"1.   Em ações judiciais na esfera cível, caso o juiz necessite de perito para elucidação da causa, existe alguma forma de credenciamento prévio do perito ad hoc, como banco de dados próprio ou solicitação ao órgão de classe profissional? O Tribunal de Justiça de Pernambuco só custeia o pagamento de honorários periciais arbitrados em processos envolvendo beneficiários da justiça gratuita, consoante previsão da Resolução nº 127/09 do Conselho Nacional de Justiça. Atualmente só existe em aberto edital de credenciamento para peritos médicos. Está em fase de estudos a elaboração de um novo edital de credenciamento para englobar outras especialidades.
+ 
+2.    Caso exista um credenciamento prévio, existe alguma relação de documentos que deva ser entregue? Qual o protocolo seguido para tal credenciamento? (virtual, pessoalmente, etc). Solicito documentação comprobatória. Conforme esclarecido anteriormente, no momento só existe credenciamento de peritos médicos. O Edital de Credenciamento nº 001/2012-SAD/TJPE e seus anexos estão disponíveis no site do TJPE, no campo destinado às licitações (www.tjpe.jus.br/licitai/licita_04.asp).
+ 
+3.    Nos casos de beneficiários de justiça gratuita com necessidade de realização de prova pericial, este tribunal reserva alguma cifra para pagamento conforme a recomendação da resolução 127 do CNJ? Caso seja o estado que pague a perícia nesses casos, há alguma tabela de valores para pagamento?
+O Tribunal de Justiça dispõe orçamento destinado ao pagamento de honorários periciais para os casos de beneficiários de justiça gratuita.Para os peritos médicos, existe a previsão do valor mínimo e máximo a ser pago para cada perícia (mínimo de R$ 250,00 e máximo de R$ 450,00), conforme previsão no Edital de Credenciamento nº 001/2012-SAD/TJPE. Para os demais casos, envolvendo pedidos profissionais de outras áreas, tais como engenheiro, contador, psicólogo, o critério de valor máximo a ser pago adotado é R$ 1.000,00, consoante art.  6º da Resolução nº 127/2009 do CNJ.
+"	
+020	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	07/09/2015	"Olá, gostaria de solicitar uma relação com todos os funcionários efetivos das varas do Polo Agreste Central II. Como faço para poder ter acesso a esses dados?
+
+"	16/09/2015	"Prezado(a) Senhor(a),  
+
+Ref.: PEDIDO DE INFORMAÇÃO Nº 020/2015 - CPSIC/TJPE
+
+Segue, em arquivo anexo, reposta ao seu pedido de informação registrado neste Órgão sob o nº 020/2015 - CPSIC/TJPE. 
+
+Atc.,
+
+Ouvidoria Geral da Justiça - CPSIC/TJPE
+
+"	SIM                   Pedido de Informação nº 020/2015
+021	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	06/09/2015	"Gostaria de receber quadro com a listagem de funcionários do TJPE na condição de cedidos, ou seja, aqueles que trabalham no tj, mas pertencem a outro órgão. Se possível lista atualizada até a presente data.
+
+"	19/10/2015	"Prezado(a) Senhor(a),  
+
+Ref. Pedido de Informação nº 021/2015.
+
+Segue, em arquivo anexo, resposta ao Pedido de Informação nº 021/2015.
+
+Atenciosamente.  
+
+Ouvidoria Geral da Justiça 
+"	SIM                   Pedido de Informação nº 021/2015
+022	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	24/09/2015	"Candidata aprovada no concurso vigente para preenchimento de cargos administrativos desse Tribunal, especificamente no Cargo de Técnica Judiciária, com base no Art. 5º., XXXIII da CF, bem como no direito à informação previsto na Lei 12.527, de 18/11/2011, solicito o que se segue:
+1. Quadro resumido com o quantitativo de Técnicos Judiciários da Sétima Região (Agreste Setentrional) do Tribunal de Justiça de Pernambuco que preencherão os requisitos para aposentadoria, no período compreendido entre março de 2014 e março de 2016, distinguindo as aposentadorias voluntárias das aposentadorias compulsórias;
+2. Indicação da quantidade de vagas existentes para o cargo de Técnico Judiciário, discriminando a quantidade de vagas por comarca, incluindo os cargos criados pela Lei nº 14.684/2012;
+3. A quantidade de servidores requisitados existentes nas comarcas da Sétima Região;
+4. Informação acerca de varas a serem instaladas no decorrer da validade do referido concurso.
+Vale ressaltar que as informações solicitadas são de interesse de todos os aprovados para o cargo de Técnico Judiciário - Área Judiciária da região supra mencionada, bem como dos jurisdicionados e principalmente do próprio Tribunal que zela pela transparência e pela prestação de uma Justiça célere e eficiente de acordo com todos os preceitos constitucionais.
+Nestes termos, requer o envio dos dados colhidos para o e-mail indicado inicialmente, e, se possível, a disponibilização em sítio do Tribunal para que outros candidatos e demais interessados possam obter as mesmas informações sem necessidade de recorrer novamente à Ouvidoria.
+Pede e aguarda deferimento.
+"	25/11/2015	"Prezada Senhora,  
+
+De ordem do Ouvidor Geral da Justiça e Gestor do CPSIC/TJPE, Des. Ouvidor, encaminho, em arquivo anexo, resposta ao PEDIDO DE INFORMAÇÃO Nº 022/2015, formulado com base na LAI.
+
+Atc.,   
+
+Ouvidoria Geral da Justiça/CPSIC-TJPE 
+
+
+
+
+"	SIM                   Pedido de Informação nº 022/2015
+023	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	25/09/2015	"Por gentileza, gostaria de saber como conseguir um documento do Tribunal de Justiça de Pernambuco informando a quantidade de servidores terceirizados e cedidos na região do Moxotó.
+
+"	25/11/2015	"Prezado Senhor, 
+
+De ordem do Ouvidor Geral da Justiça e Gestor do CPSIC/TJPE, Des. José Ivo de Paula Guimarães, encaminho, em arquivo anexo, resposta ao PEDIDO DE INFORMAÇÃO Nº 023/2015, formulado com base na LAI.
+
+Quanto aos terceirizados, segue link: www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/empregados-empresas-contratadas
+
+ Atc.,   
+
+Ouvidoria Geral da Justiça/CPSIC-TJPE 
+
+"	SIM                   Pedido de Informação nº 023/2015
+024	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	30/09/2015	"Gostaria de saber:
+1- Qual a quantidade de cargos vagos de Analista Judiciário?
+2- Existe previsão de novas nomeações para o pólo Sertão do Araripe, uma vez que a 1ª Vara de Ouricuri, a 1ª de Araripina e Trindade, encontram-se o com o número de servidores inferior ao que determina a IN 06/2011?
+"	07/10/2015	"Prezada Senhora,
+
+Ref.: PEDIDO DE INFORMAÇÃO Nº 024/2015 - CPSIC/TJPE
+
+De acordo com informações prestadas pela Assessoria Técnica da Secretaria de Gestão de Pessoas - SGP, deste TJPE, atualmente não existem cargos vagos no âmbito do Tribunal de Justiça de Pernambuco, só estão ocorrendo nomeações para todos os polos em virtude de exoneração, aposentadoria ou falecimento.
+
+Atenciosamente, 
+
+Ouvidoria Geral da Justiça  
+"	
+025	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	29/09/2015	Pedido de Informação nº 025/2015 – formalizado por Usuária através de requerimento registrado sob o RP nº 100679/2015-SGP sobre os cargos de analista, especialidade psicologia, na Comarca de Jaboatão dos Guararapes.	18/10/2015	"Prezado(a) Senhor(a), 
+
+Ref. Pedido de Informação nº 025/2015 - CPSIC/TJPE
+
+Segue, em arquivo anexo, resposta ao seu pedido de informação registrado neste Órgão sob o nº em epígrafe.
+
+Ouvidoria Geral da Justiça 
+"	SIM                     Pedido de Informação nº 025/2015
+026	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	15/10/2015	"1. Que seja informado qual dos servidores cedidos/à disposição (doc.1) pertenciam a Comarca de Paulista; 2. Que seja informado o cargo de cada servidor relacionado; 3. Que no Doc. 3, em anexo: seja incluída a página""2/4"" faltante, 2. Seja informado o cargo para o qual cada candidato foi nomeado; 3. Seja informado, conforme descrito no pedido inicial, menção as respectivas vacâncias que originaram tais nomeações, ou no caso de não haver tal menção, a lei ou ato normativo que as autorize; 4. No doc.4, em anexo, seja informado informado o cargo de cada servidor relacionado. "	09/11/2015	Entregue ao usuário, pessoalmente, na data de 09/11/2015.	SIM                     Pedido de Informação nº 026/2015
+027	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/10/2015	"Prezado (a),
+Bom dia!
+De acordo com a lei de acesso à informação de n. 12.527/11, gostaria de saber a quantidade de vagas em aberto existentes para o cargo de analista judiciário, pólo de classificação 03, região metropolitana II.
+"	13/10/2015	"Prezada Senhora,
+
+Ref.: PEDIDO DE INFORMAÇÃO Nº 027/2015 - CPSIC/TJPE
+
+De acordo com informações prestadas pela Assessoria Técnica da Secretaria de Gestão de Pessoas - SGP, deste TJPE, atualmente não existem cargos vagos no âmbito do Tribunal de Justiça de Pernambuco, só estão ocorrendo nomeações para todos os polos em virtude de exoneração, aposentadoria ou falecimento.
+
+Atenciosamente, 
+
+Ouvidoria Geral da Justiça  
+"	
+028	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	11/10/2015	"1 - Relação dos servidores cedidos à disposição do Tribunal de Justiça de Pernambuco em outubro de 2015, que exercem sua atribuições nas Comarcas componentes do Agreste Setentrional (vide Edital nº 01/2011), a saber, Bom Jardim, Cumaru, Feira Nova, João Alfredo, Limoeiro, Orobó, Passira, Santa Cruz do Capibaribe, Santa Maria do Cambucá, São Vicente Férrer, Surubim, Taquaritinga do Norte, Toritama e Vertentes.  Especificando-se o cargo e o órgão de origem destes servidores.
+
+2 - Considerando o levantamento realizado pela Secretaria de Gestão de Pessoas, por força da determinação proferida na decisão do Processo Administrativo 1181/2010 – CJ (RP nº 004428/2010), publicado no DJE 141/2013 do TJPE, quais as atividades desenvolvidas, de fato, pelos servidores cedidos nestas comarcas? Especificando-se se os referidos servidores desenvolvem no TJPE as mesmas atribuições do cargo de origem e se desenvolvem atribuições análogas aos cargos de Técnico Judiciário (Judiciária e Administrativa), Analista Judiciário (Judiciária e Administrativa) ou Oficial de Justiça.
+
+3 - Existe o pagamento (qualquer nomenclatura) de benefício (complementar ou não) aos servidores cedidos ao Tribunal de Justiça?
+
+4 - Quando os contratos/termos/acordos de cessão desses servidores mencionados no item ""1"" foram firmados? Qual o prazo de validade destes contratos/termos/acordos?
+
+5 - Requer-se cópia dos contratos/termos/acordos firmados ou renovados no ano de 2013, 2014 e 2015, referidos no item anterior, caso existam.
+
+6 - Quantitativo de servidores do quadro próprio do TJPE (com especificação de cargos e funções), outrora lotados nas comarcas mencionadas no item ""1"", que foram exonerados, demitidos ou tiveram declarados vagos os seus cargos, desde 01/01/2013 até a presente data.
+
+7 - Quantitativo de nomeações (com especificação de cargos e funções) para o Polo de Classificação 07/Agreste Setentrional (Edital nº 01/2011),  que ocorreram em virtude de eventuais exonerações, demissões, declarações de cargos vagos, decurso de prazo e desistência de posse, desde 01/01/2013 até a presente data.
+"	25/11/2015	"Prezado Senhor, 
+De ordem do Ouvidor Geral da Justiça e Gestor do CPSIC/TJPE, Des. Ouvidor, encaminho, em arquivo anexo, resposta ao PEDIDO DE INFORMAÇÃO Nº 028/2015, formulado com base na LAI.
+Quanto aos Servidores à disposição, segue link: www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/servidores-requisitados
+Atc.,   
+
+Ouvidoria Geral da Justiça/CPSIC-TJPE 
+"	SIM                   Pedido de Informação nº 028/2015
+029	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	07/10/2015	"A Comissão de aprovados do Polo da Mata Sul II, solicita informações sobre quantidade de todos: os servidores efetivos; Servidores à disposição; Servidores dos cargos comissionados e o total de servidores do Polo da Mata Sul II. "	20/10/2015	"Os arquivos com as respostas foram devidamente encaminhados ao email do solicitante. 
+
+"	SIM                   Pedido de Informação nº 029/2015
+030	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	03/10/2015	Solicito acesso à informação concernente à quantidade atual de cargos de técnico judiciário vagos no Estado de Pernambuco, assim como a relação completa de pessoal cedido ao TJPE em razão de convênios, por prefeituras ou qualquer outro organismo público, e que desempenhe funções próprias de técnico judiciário.	19/10/2015	"Prezado(a) Senhor(a),  
+
+Ref. PEDIDO DE INFORMAÇÃO Nº 030/2015
+
+De acordo com informações prestadas pela Assessoria Técnica da Secretaria de Gestão de Pessoas - SGP, deste TJPE, atualmente não existem cargos vagos no âmbito do Tribunal de Justiça de Pernambuco, só estão ocorrendo nomeações para todos os polos em virtude de exoneração, aposentadoria ou falecimento.
+
+No que tange ao pessoal cedido ao TJPE, segue link para as devidas informações: www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/servidores-requisitados
+  
+
+Ouvidoria Geral da Justiça 
+
+"	
+031	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	27/10/2015	"Prezado,
+Boa noite!
+
+Com base na lei de acesso à informação, gostaria de obter a lista de analistas judiciários cedidos e a lista dos efetivos exercendo essa função. 
+"	04/11/2015	"Prezado(a) Senhor(a), 
+
+Ref. Pedido de Informação nº 031/2015 - CPSIC/TJPE
+
+As informações requeridas por V.Sa. já se encontram disponibilizadas no seguintes link's do sítio oficial do TJPE:
+
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/cargos-efetivos
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/situacao-funcional
+
+Atc.,
+
+Ouvidoria Geral da Justiça 
+"	
+032	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	22/10/2015	"Gostaria de saber a quantidade de servidores cedidos por outros órgãos ao TJPE nas Comarcas de Olinda, Paulista Abreu e Lima, Igarassu, Itapiassuma, Itamaracá, Camaragibe e São Lourenço da Mata, bem como a quantidade desses cedidos também em todo Estado de PE. Gostaria ainda de saber quem os remuneram? 
+Solicito também que seja prestada informações para saber quais as vacâncias surgidas nas comarcas acima citadas que foram utilizadas em outras comarcas.
+"	04/11/2015	"Prezado(a) Senhor(a), 
+Ref. Pedido de Informação nº 032/2015 - CPSIC/TJPE
+
+As informações requeridas por V.Sa. já se encontram disponibilizadas no link da transparência do sítio oficial do TJPE:
+
+Link's: www.tjpe.jus.br/web/transparencia/vencimento-colaboradores www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+
+Sublink's:
+
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/cargos-efetivos
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/situacao-funcional
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/servidores-por-lotacao
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores
+
+Atc.,
+Ouvidoria Geral da Justiça 
+
+"	
+033	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	25/10/2015	Gostaria de saber a quantidade de cargos de Técnico Judiciário - TPJ - Judiciária e Administrativa que existem na Capital do Estado, em todos os juízos, e quantos deles estão providos e quanto estão vagos.	04/11/2015	"Prezado(a) Senhor(a), 
+
+Ref. Pedido de Informação nº 033/2015 - CPSIC/TJPE
+
+As informações requeridas por V.Sa. já se encontram disponibilizadas no link da transparência do sítio oficial do TJPE:
+
+Link's: www.tjpe.jus.br/web/transparencia/vencimento-colaboradoreswww.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+
+Sublink's:
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/cargos-efetivos
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/situacao-funcional
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/servidores-por-lotacao
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores
+
+Atc.,
+Ouvidoria Geral da Justiça 
+
+"	
+034	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	30/10/2015	"Venho respeitosamente solicitar resposta aos seguintes questionamentos:
+a. Qual a quantidade de servidores cedidos à disposição do Tribunal de Justiça de Pernambuco em setembro de 2015 no polo 2 região metropolitana 1 do ultimo concurso realizado por este órgão (Abreu e Lima,Camaragibe, Igarassu, Itapissuma, Itamaracá, Olinda, Paulista e São Lourenço da Mata)?
+b. Onde esses servidores estão exercendo suas atribuições atualmente?
+c. Quais as atividades desenvolvidas pelos servidores cedidos?
+d. Qual o órgão ou entidade de origem desses servidores?
+e. Existe o pagamento (qualquer nomenclatura) de benefício (complementar ou não) aos servidores cedidos ao Tribunal de Justiça?
+f. Quando os contratos/termos/acordos de cessão foram firmados?
+g. Qual o prazo de validade desses contratos/termos/acordos?
+h. Requer-se cópia dos contratos/termos/acordos firmados ou renovados no ano de 2013, 2014 e 2015, caso existam.
+i. Qual a quantidade de vagas (qualquer forma de vacância) disponíveis para o cargo de técnico judiciário em setembro de 2015?
+j. Qual a quantidade de vagas (qualquer forma de vacância) disponíveis para o cargo de analista judiciário em setembro de 2015?
+"	04/11/2015	"Prezado(a) Senhor(a), 
+
+Ref. Pedido de Informação nº 034/2015 - CPSIC/TJPE
+
+As informações requeridas por V.Sa. já se encontram disponibilizadas no link da transparência do sítio oficial do TJPE:
+
+Link's: www.tjpe.jus.br/web/transparencia/vencimento-colaboradores www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+
+Sublink's:
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/cargos-efetivos
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/situacao-funcional
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/servidores-por-lotacao
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores
+
+Atc.,
+Ouvidoria Geral da Justiça 
+
+"	
+035	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	03/11/2015	"Prezado(a) Senhor(a) Diretor(a),
+
+Com o objetivo de instruir nossos requerimentos e atuação junto aos poderes constituídos, especialmente para atuação no Congresso Nacional, onde há vários projetos de interesse da Categoria dos Oficiais de Justiça (estacionamento especial e isenção de tributos para aquisição de veículo para utilização no cumprimento de mandados judiciais, porte de arma, aposentadoria especial, etc).
+
+SOLCITO seja informado o quantitativo de cargos existentes e efetivamente ocupados de Oficial de Justiça.
+
+SOLICITO AINDA seja informado o SALÁRIO INICIAL e FINAL, bem como os BENEFÍCIOS do cargo.
+
+Desde já agradeço.
+"	04/11/2015	"Prezado(a) Senhor(a), 
+Ref. Pedido de Informação nº 035/2015 - CPSIC/TJPE
+
+As informações requeridas por V.Sa. já se encontram disponibilizadas no link da transparência do sítio oficial do TJPE:
+
+Link's: www.tjpe.jus.br/web/transparencia/vencimento-colaboradores www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+
+Sublink's:
+
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/cargos-efetivos
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/situacao-funcional
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/servidores-por-lotacao
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores
+
+Atc.,
+Ouvidoria Geral da Justiça "	
+036	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	27/10/2015	"GOSTARIA DE SER INFORMADO SE EXISTEM CARGOS VAGOS  E QUAL A QUANTIDADE, NO POLO DE CLASSIFICAÇÃO MATA SUL I, PARA OS CARGOS DE ANALISTA JUDICIÁRIO E OFICIAL DE JUSTIÇA.
+
+"	12/11/2015	"Prezado(a) Senhor(a), 
+
+Ref. PEDIDO DE INFORMAÇÃO Nº 036/2015 - CPSIC/TJPE
+
+De acordo com informações prestadas pela Assessoria Técnica da Secretaria de Gestão de Pessoas - SGP, deste TJPE, atualmente não existem cargos vagos no âmbito do Tribunal de Justiça de Pernambuco, só estão ocorrendo nomeações para todos os polos em virtude de exoneração, aposentadoria ou falecimento.
+
+No que tange ao quantitativo de pessoal deste TJPE, entre outras informações pertinentes a Servidores e Membros deste Poder, encontram-se disponibilizadas nos seguintes link's e sub Link's do Sítio Oficial do Tribunal:
+
+Link's: www.tjpe.jus.br/web/transparencia/vencimento-colaboradores www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+
+Sublink's:
+
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/cargos-efetivos
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/quantitativo-cargos-efetivos/situacao-funcional
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/estrutura-remuneratoria
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores/remuneracao/servidores-por-lotacao
+www.tjpe.jus.br/web/transparencia/vencimento-colaboradores
+  
+Atc.,
+
+Ouvidoria Geral da Justiça- CPSIC/TJPE 
+"	
+037	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	11/11/2015	"COM FULCRO NA LEI 12.527/11, LEI DE ACESSO À INFORMAÇÃO, E DEVIDO À NÃO CONSTATAÇÃO DE NOMEAÇÕES RELATIVAS ÀS VACÂNCIAS ORIGINADAS NO CONCURSO PÚBLICO PARA CARGOS DE SERVIDORES DESTE PODER, NO POLO 2, REGIÃO METROPOLITANA 1, VISTO QUE JÁ FORAM VERIFICADOS TODOS OS ATOS DE NOMEAÇÃO DO REFERIDO CONCURSO, E DEVIDO À INFORMAÇÃO REPASSADA PELA SGP, BEM COMO PELA ASSESSORIA DA PRESIDENCIA DO TJPE, QUE TAIS VACÂNCIAS SERIAM UTILIZADAS EM OUTROS POLOS, SOLICITO RESPEITOSAMENTE INFORMAR A DESTINAÇÃO DAS SEGUINTES VACÂNCIAS:
+VACÂNCIAS NÃO REPOSTAS NO POLO 2, REGIÃO METROPOLITANA I, SURGIDAS POR MEIO DE DECLARAÇÃO DE CARGOS VAGOS OU EXONERAÇÕES.
+1. XXXXXXX, mat. XXXXX, cargo efetivo de técnico judiciário, referencia TPJ, a partir de 04/07/2014 vinculado ao Polo 02 região metropolitana I, Ato da SGP nº2922/14 SGP, publicado no DOE edição nº 124/2014 de 14/07/2014;
+2.  XXXXX, mat.  XXXXX, cargo efetivo de técnico judiciário, referência TJP, a partir de 07/07/14, vinculado ao Polo 02 região metropolitana I, Ato da SGP nº 3027/14 SGP, publicado no DOE edição nº 126/2014 de 16/07/2014;
+3.  XXXXX, mat.  XXXXX, cargo efetivo de técnico judiciário, referência TJP, a partir de 09/09/14, vinculado ao Polo 02 região metropolitana I, Ato da SGP nº 4057/14 SGP, publicado no DOE edição nº 170/2014 de 17/09/2014;
+4. XXXXX, mat. XXXXX, cargo efetivo de técnico judiciário, referência TJP, a partir de 15/09/14, vinculado ao Polo 02 região metropolitana I, Ato da SGP nº 4058/14 SGP, publicado no DOE edição nº 170/2014 de 17/09/2014;
+5. XXXXX, mat. XXXXX, cargo efetivo de analista judiciário, referência AJP, a partir de 15/09/14, vinculado ao Polo 02 região metropolitana I, Ato da SGP nº 4080/14 SGP, publicado no DOE edição nº 172/2014 de 19/09/2014;
+6. XXXXX, mat. XXXXX, cargo efetivo de Técnico judiciário, referencia TJP, a partir de 30/09/2015, vinculado ao Polo 02 região metropolitana I, Ato da SGP nº 4418 /15, publicado no DOE edição 180/2015 de 02/10/2015;
+7. XXXXX, mat. XXXXX, cargo efetivo de técnico judiciário, referência TPJ, a partir de 04/11/2015, vinculada ao Polo 02 região metropolitana I, Ato da SGP nº 4930/15, publicado no DOE edição nº 202/2015 de 06/11/2015.
+
+VACÂNCIAS NÃO REPOSTAS NO POLO 2, REGIÃO METROPOLITANA I, SURGIDAS POR MEIO DE TRANSFERÊNCIA, VIA SELEÇÃO TORNADA PÚBLICA ATRAVÉS DO EDITAL Nº 04, DE 13 DE JUNHO DE 2014
+1. XXXXX, mat. XXXXX, técnico judiciário, Comarca de São Lourenço da Mata;
+2. XXXXX, mat. XXXXX, técnico judiciário, Comarca de Paulista;
+3. XXXXX, mat. XXXXX, analista judiciário, Comarca de Olinda;
+4. XXXXX, mat. XXXXX, analista judiciário, Comarca de Olinda; 
+5. XXXXX, mat. XXXXX, analista judiciário, Comarca de Camaragibe;
+
+VACÂNCIAS NÃO REPOSTAS NO POLO II, REGIÃO METROPOLITANA I, SURGIDAS ATRAVÉS DE APOSENTADORIAS:
+1. XXXXX, Matrícula XXXXX, cargo efetivo de técnico judiciário, referência TPJ, a partir de 26/08/2015, vinculado ao polo 2 região metropolitana I, publicado no DOE edição 155/2015 de 27/08/2015;
+2.  XXXXX, matrícula nº XXXXX, cargo efetivo de Técnico Judiciário, Referência TPJ, vinculado ao polo 2 região metropolitana I, ATO Nº 4378/2015 ? SGP , publicado no DOE Edição nº 176/2015 de 28/09/15.
+
+AINDA, QUE AS INFORMAÇÕES AQUI SOLICITADAS SÃO DE CARÁTER PÚBLICO, DE ORDEM GERAL, MACRO INFORMAÇÕES, DE FORMA QUE O ENVIO DE LINKS DE INTERNET COMO RESPOSTA NÃO TEM VALOR DOCUMENTAL, REITERO O PEDIDO DE QUE SEJA DADA RESPOSTA ATRAVÉS DE DOCUMENTO OFICIAL VALIDADO POR ASSINATURA DE AGENTE PÚBLICO.
+"	14/12/2015	Entregue ao usuário, pessoalmente, na data de 14/12/2015	
+038	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	25/092015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+039	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	02/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+040	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	16/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+041	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+042	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+043	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	02/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+044	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	10/11/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+045	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	03/11/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+046	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+047	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+048	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	09/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+049	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	07/10/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	03/12/2015	"Entregue ao usuário, pessoalmente, na data de 03/12/2015.
+"	SIM                    Pedido de Informação nº 038 ao 049/2015
+050	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	03/11/2015	Informações acerca do concurso público servidor TJPE/2011, protocoladas diretamente na Secretaria de Gestão de Pessoas. 	04/12/2015	"Prezado(a) Senhor(a), 
+
+Ref: PEDIDO DE INFORMAÇÃO Nº 050/2015 - CPSIC/TJPE
+
+Segue, em arquivo anexo, resposta ao Pedido de Informação, com base na LAI, registrada neste Órgão sob o nº em epígrafe.
+
+Atc., 
+
+Ouvidoria Geral da Justiça 
+"	SIM                   Pedido de Informação nº 050/2015
+051	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	23/10/2015	"Usuário questiona acerca de servidores terceirizados, temporários e/ou cedidos que estejam exercendo a atividade-fim no TJPE no ano de 2015. 
+"	04/12/2015	"a) setembro/2015 = 829 servidores à disposição no TJPE; b) os mesmos estão exercendo suas atividades nas Comarcas da Capital e do interior; c) Exercem atividades de apoio: serviços médicos, gerais, virgilancia e motorista; d) são oriundos do Governo do Estado, Prefeituras, Câmeras Municipais, Tribunais de outros estados e Ministerio Público; d) Aos servidores cedidos é paga a gratificação de incentivo.  "	
+052	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	23/11/2017	"Usuário questiona acerca de servidores terceirizados, temporários e/ou cedidos que estejam exercendo a atividade-fim no TJPE no ano de 2015.  
+"	04/12/2015	"a) Outubro/2015 = 829 servidores à disposição no TJPE; b) os mesmos estão exercendo suas atividades nas Comarcas da Capital e do interior; c) Exercem atividades de apoio: serviços médicos, gerais, virgilancia e motorista; d) são oriundos do Governo do Estado, Prefeituras, Câmeras Municipais, Tribunais de outros estados e Ministerio Público; d) Aos servidores cedidos é paga a gratificação de incentivo.  "	
+053	Pedido de Informações	Respondido	Lei de Acesso à Informação	ACESSO A INFORMAÇÃO	18/11/2015	"Usuária solicita informações relacionadas aos servidores à disposição do TJPE. Requer saber qual a função exercida pelos servidores.
+
+"	14/12/2015	Exercem atividades de apoio, serviçoes de secretaria e vigilância e motorista. 	
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

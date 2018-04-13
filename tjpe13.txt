@@ -1,0 +1,54 @@
+Pedido Nº	Tipo	Situação	Categoria	Título	Data de cadastro	Descrição	Data de conclusão	Resposta da Ouvidoria	RESPOSTAS COM ANEXO
+001	Pedido de Informações	Respondido	ACESSO A INFORMAÇÃO	Lei de Acesso à Informação	09/01/2013	"Sr. Ouvidor,
+
+Nos termos do art. 10 da Lei 12527/2011, solicito cópia do contrato firmado entre o TJPE e a FCC com vistas à execução do concurso levado a cabo pelo edital 01/2012 do TJPE para o cargo Juiz de Direito Substituto.
+
+"	18/01/2013	Cópia do contrato encaminhado ao solicitante. 	SIM                                                                                                                                                                                        Pedido de Informação nº 001/2013
+002	Pedido de Informações	Respondido	ACESSO A INFORMAÇÃO	Lei de Acesso à Informação	22/01/2013	Solicito cópia digitalizada em formato pdf da Proposta Técnica 34A/20212 e, também, cópia do Processo de Dispensa de Licitação RP 61805/2012 nos mesmos moldes. A proposta acima é ventilada no contrato firmado entre o TJPE e a FCC sobre o concurso da magistratura deste ano.	26/02/2013	Encaminhada cópia da Decisão da Dispensa de Licitação.	SIM                                                                                                                                                                                        Pedido de Informação nº 002/2013
+003	Pedido de Informações	Respondido	ACESSO A INFORMAÇÃO	Lei de Acesso à Informação	16/05/2013	"O usuário, através da Ouvidoria Geral do Estado, informa a ""grande quantidade de de servidores cedidos"" ao TJPE e ""lotados na Gerência de Apoio Odontológico da Diretoria de Saúde/SGP"". Baseando-se na Lei 12.527/2011, o usuário requer esclarecimentos.
+"	13/06/2013	Esclarecimentos ao Pedido de informação nº 003/2013 devidamente encaminhado – por carta - ao cidadão solicitante. 	SIM                                                                                                                                                                                        Pedido de Informação nº 003/2013
+004	Pedido de Informações	Respondido	ACESSO A INFORMAÇÃO	Lei de Acesso à Informação	09/07/2013	Senhor(a) Ouvidor(a), O Tribunal de Justiça da Paraíba mantém contrato de prestação de serviços com o Banco do Brasil desde 2008, no qual centraliza o gerenciamento das verbas do Poder Judiciário paraibano (folha de pagamento, depósitos judiciais, duodécimo, precatórios, etc.), cujo contrato fora formalizado através de dispensa de licitação. Na atualidade, o TJPB está em fase de estudo para realizar nova contratação e neste estudo está a possibilidade de efetuar licitação para a contratação de instituição financeira que efetue os serviços atualmente prestados pelo Banco do Brasil. Dessa forma, visando subsidiar os estudos pelo setor técnico deste Tribunal, solicito, com base na Lei de Acesso à Informação, os seguintes esclarecimentos: 1. esse Tribunal mantém contrato com instituição financeira para a prestação dos serviços acima indicados formalizado com base em dispensa de licitação? 2.se o contrato deriva de uma licitação, qual foi a modalidade? 3.qual a data do contrato? 4.há um só banco prestando o serviço de gerenciamento das contas, ou banco público para os depósitos judiciais e privado para a folha de pagamento, por exemplo? 5.no contrato de prestação de serviços está prevista cláusula de remuneração do Tribunal pelo fato de o banco manter em depósito as verbas de responsabilidade do Poder Judiciário (por exemplo, depósitos judiciais, repasse de verbas para pagamento de precatórios, etc.), ou existe um instrumento próprio para essa remuneração (convênio) paralelo ao contrato? 	18/07/2013	"A Diretoria Financeira fez contato por telefone com o Solicitante, Diretoria de Processos Administrativos do TJPB, o qual se comprometeu em contactar diretamente a Presidencia do TJPE para a obtenção dos devidos informes. 
+"	
+005	Pedido de Informações	Respondido	ACESSO A INFORMAÇÃO	Lei de Acesso à Informação	09/07/2013	"Prezados Srs: Gostaria de solicitar, com base na Lei de Acesso a Informação, uma lista com a Numeração Processual Única (NPU) - ou outra numeração do Tribunal, de todos os processos relativos a Meta 18 de 2012, do Conselho Nacional de Justiça: ""Identificar e julgar, até 31/12/2013, as ações de improbidade administrativa e ações penais relacionadas a crimes contra a administração pública, distribuídas até 31/12/2011."" Favor incluir os processos em primeira e segunda instância, além de Juizados Especiais e Turmas recursais. De acordo com relatório recente do CNJ, são 2845 processos para este tribunal. "	12/07/2013	"
+De ordem do Des. Ouvidor e Gestor do CPSIC/TJPE, encaminho resposta à sua solicitação registrada sob o nº 005/2013.
+ 
+Conforme informações colhidas no sítio do Conselho Nacional de Justiça (Link abaixo), das 2845 (dois mil, oitocentas e quarenta e cinco) ações da meta 18 pertinentes ao TJPE, 610 (seiscentas e dez) já foram julgadas.
+Sendo assim, a útima atualização disponível no sítio do Conselho aponta 2235 (duas mil, duzentas e trinta e cinco) ações pendentes de julgamento. 
+ 
+www.cnj.jus.br/images/Meta%2018%20de%202013%2008072013.pdf
+ 
+ Seguem 4 (quatro) arquivos, em anexo,  com relações dos processos -TJPE - pendentes de julgamento - Meta 18.
+ 
+1º Arquivo - Ações de Improbidade - 1ª instância -        471 processos (dados de abril)
+2º Arquivo - Ações penais - 1ª instância -                  1607 processos (dados de abril)
+3º Arquivo - Ações de Improbidade - 2º grau -               65 processos (dados de maio) 
+4º Arquivo - Ações Penais - 2º Grau -                           95 processos (dados de maio)
+TOTAL:                                                                2238 processos
+ 
+OBS1: De ressaltar, que os números sofrem alterações constantes. Processos que não tinham sido identificados, em levantamentos anteriores, como ""Meta 18"" são incluídos. Processos efetivamente julgados são excluídos. 
+OBS2: Os processos em trâmite nos Juizados, conforme informações colhidas por este Comitê do TJPE, não estão na Meta 18.
+"	
+006	Pedido de Informações	Respondido	ACESSO A INFORMAÇÃO	Lei de Acesso à Informação	12/07/2013	"Advogado criminalista regularmente inscrito na respeitada Ordem dos Advogados do Brasil, Secção de São Paulo, Subsecção de Sertãozinho, sob o nº 232.412, vem, mui respeitosamente, perante Vossa Excelência, com fulcro no art. 5º, inc. XXXIII, da Carta Magna de 1988 e na Lei nº 12.527, de 18 de novembro de 2011, requerer o acesso às seguintes informações: a) Qual é a resolução ou portaria que regulamenta a Lei de Acesso à Informação no âmbito deste Tribunal de Justiça? Em caso de ainda não existir tal res olução ou portaria, qual é a previsão para que seja editada? b) Qual é o funcionário responsável no âmbito deste Tribunal de Justiça pelo desempenho das atribuições previstas no art. 40 da Lei de Acesso à Informação? c) Existe no sítio eletrônico deste Tribunal de Justiça formulário disponível para fazer recurso em caso de negativa de acesso à informação? Os usuários, em visita ao aludido site, recebem instruções de como pedir uma informação ou interpor recurso com base na Lei de Acesso à Informação? d) Qual é a quantidade de processos disciplinares já existentes no âmbito deste Tribunal de Justiça em razão de eventuais violações à Lei de Acesso à Informação? e) Existe no sítio eletrônico deste Tribunal de Justiça, a exemplo dos sites do Superior Tribunal de Justiça e do Tribunal de Justiça de São Paulo, uma ferramenta (art. 9º, inciso I e art. 10, parágrafo segundo, ambos da Lei 12.527/2011) conhecida como SIC (Serviço de Informação ao Cidadão) em local de fácil acesso e rá pida VISUALIZAÇÃO pelos usuários? f) Ao requerer uma informação pelo site, o usuário recebe algum número de protocolo para acompanhamento do pedido? Nestes termos. Pede deferimento.
+"	12/07/2013	"Seguem, abaixo, respostas à sua solicitação registrada nesta Ouvidoria Judiciária sob o número em epígrafe:
+
+a) O Ato nº 430 da Presidência do TJPE, de 10 de maio de 2012 (cópia anexa), instituiu o Comitê para Prestação de Serviço de Informação ao Cidadão – CPSIC/TJPE; 
+
+
+b)  Conforme artigo 3º (cabeça) do Ato supracitado, o Desembargador Ouvidor Judiciário é o gestor do CPSIC/TJPE;
+
+
+c) Encontram-se em desenvolvimento pela Secretaria de Tecnologia da Informação e Comunicação deste TJPE formulário específico para esse fim, bem como instruções aos cidadãos. Os recursos, enquanto o formulário específico não é disponibilizado, podem ser interpostos no seguinte Link: http://www.tjpe.jus.br/ouvidoria/;
+
+
+d) Não há, até a presente data, processos disciplinares existentes em razão de       violações à Lei de Acesso À Informação; 
+
+
+e) A Transparência Ativa encontra-se disponibilizada no seguinte Link: http://www.tjpe.jus.br/ouvidoria. Já os pedido de informação podem ser formulados no Link citado letra c - http://www.tjpe.jus.br/ouvidoria.
+
+
+f) Sim.
+
+Em 12 de julho de 2013.
+"	
+007	Pedido de Informações	Respondido	ACESSO A INFORMAÇÃO	Lei de Acesso à Informação	03/10/2013	"A  Associação Juízes para a Democracia (AJD) solicita, com base nas Leis 12.527/2011 (LAI) e 12.528/2011 (Criação da Comissão da Verdade), acesso a documentos e informações  pertinentes a Magistrados atingidos por motivação exclusivamente política entre 31/03/1964 a 05/10/1988.
+"	28/11/2013	A Diretoria de documentação judiciária do TJPE informou que em pesquisa realizada nos duzentos e quarenta e três processos catalogados pela referida unidade não foram localizados processos promovidos contra juizes pernambucanos vitimas de crimes políticos naquele período. 	
