@@ -181,3 +181,4 @@ tcs_classificados <- bind_rows(ana_tcs, jose_tcs, liz_tcs, lucas_tcs)
 setwd("C:\\Users\\jvoig\\OneDrive\\Documentos\\colab_tb")
 write.xlsx(as.data.frame(tcs_classificados), file="tcs_classificados.xlsx", sheetName="tcs_classificados",
            col.names=TRUE, row.names=FALSE, append=FALSE, showNA=FALSE)
+save(tcs_classificados, file="tcs_classificados.Rdata")
