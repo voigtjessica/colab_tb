@@ -18,8 +18,9 @@ rec1 <- recursos_cgu %>%
   rename(data_recurso_1 = data,
          recurso_1 = conteudo,
          pasta_do_anexo_recurso_1 = pastanx,
-         anexo_com_extensao_recurso_1 = nomeanex) %>%
-  select(protocolo, recurso_1, data_recurso_1, pasta_do_anexo_recurso_1, 
+         anexo_com_extensao_recurso_1 = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, recurso_1, data_recurso_1, pasta_do_anexo_recurso_1, 
          anexo_com_extensao_recurso_1)
 
 resp1 <- recursos_cgu %>%
@@ -27,8 +28,9 @@ resp1 <- recursos_cgu %>%
   rename(data_resposta_recurso_1 = data,
          resposta_recurso_1 = conteudo,
          pasta_do_anexo_resposta_recurso_1 = pastanx,
-         anexo_com_extensao_resposta_recurso_1 = nomeanex) %>%
-  select(protocolo, data_resposta_recurso_1, resposta_recurso_1, 
+         anexo_com_extensao_resposta_recurso_1 = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, data_resposta_recurso_1, resposta_recurso_1, 
          pasta_do_anexo_resposta_recurso_1,
          anexo_com_extensao_resposta_recurso_1)
 
@@ -37,8 +39,9 @@ rec2 <- recursos_cgu %>%
   rename(data_recurso_2 = data,
          recurso_2 = conteudo,
          pasta_do_anexo_recurso_2 = pastanx,
-         anexo_com_extensao_recurso_2 = nomeanex) %>%
-  select(protocolo, data_recurso_2, recurso_2, pasta_do_anexo_recurso_2,
+         anexo_com_extensao_recurso_2 = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, data_recurso_2, recurso_2, pasta_do_anexo_recurso_2,
          anexo_com_extensao_recurso_2)
   
 resp2 <- recursos_cgu %>%
@@ -46,8 +49,9 @@ resp2 <- recursos_cgu %>%
   rename(data_resposta_recurso_2 = data, 
          resposta_recurso_2 = conteudo, 
          pasta_do_anexo_resposta_recurso_2 = pastanx, 
-         anexo_com_extensao_resposta_recurso_2 = nomeanex) %>%
-  select(protocolo, data_resposta_recurso_2, resposta_recurso_2, 
+         anexo_com_extensao_resposta_recurso_2 = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, data_resposta_recurso_2, resposta_recurso_2, 
          pasta_do_anexo_resposta_recurso_2, anexo_com_extensao_resposta_recurso_2)
 
 rec3 <- recursos_cgu %>%
@@ -55,8 +59,9 @@ rec3 <- recursos_cgu %>%
   rename(data_recurso_3 = data, 
          recurso_3 = conteudo, 
          pasta_do_anexo_resposta_recurso_3 = pastanx, 
-         anexo_com_extensao_resposta_recurso_3 = nomeanex) %>%
-  select(protocolo, data_recurso_3 , recurso_3,pasta_do_anexo_resposta_recurso_3, 
+         anexo_com_extensao_resposta_recurso_3 = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, data_recurso_3 , recurso_3,pasta_do_anexo_resposta_recurso_3, 
          anexo_com_extensao_resposta_recurso_3)
          
 resp3 <- recursos_cgu %>%
@@ -64,8 +69,9 @@ resp3 <- recursos_cgu %>%
   rename(data_resposta_recurso_3 = data, 
          resposta_recurso_3 = conteudo, 
          anexo_com_extensao_recurso_3 = nomeanex,
-         pasta_do_anexo_resposta_recurso_3 = pastanx) %>%
-  select(protocolo, data_resposta_recurso_3 , resposta_recurso_3,
+         pasta_do_anexo_resposta_recurso_3 = pastanx,
+         destino = orgao) %>%
+  select(protocolo,destino, data_resposta_recurso_3 , resposta_recurso_3,
          anexo_com_extensao_recurso_3, pasta_do_anexo_resposta_recurso_3 )
   
 rec4 <- recursos_cgu %>%
