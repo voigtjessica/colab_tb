@@ -1,21 +1,47 @@
 #Gov MG
 
+teste_igualdade_nomes_var_df <- function(base1, base2) {
+  
+  x <- names(base1)
+  y <- names(base2)
+  n <- length(x)
+  k <- length(y)
+  
+  teste_nome_igual_x <- numeric()
+  teste_nome_igual_y <- numeric()
+  
+  for ( i in 1:n) {
+    teste_nome_igual_x[i] <- x[i] %in% y
+  }
+  
+  for ( i in 1:k) {
+    teste_nome_igual_y[i] <- y[i] %in% x
+  }
+  resp_x <- paste(x[!as.logical(teste_nome_igual_x)], collapse = ", ")
+  resp_y <- paste(y[!as.logical(teste_nome_igual_y)], collapse = ", ")
+  
+  print(paste("as variáveis em x que não estão em y, são:", resp_x,
+              ". E as variáveris de y que não estão em x, são:", resp_y,
+              sep=" "))
+  
+}
+
 library(dplyr)
 library(data.table)
 library(readxl)
 library(janitor)
 
-setwd("C:\\Users\\jvoig\\OneDrive\\Documentos\\Colab\\COLAB\\GovMG")
+setwd("C:\\Users\\jvoig\\OneDrive\\Documentos\\Colab\\COLAB\\zzGovMG")
 
 pedidos_2012 <- fread("relatorio_pedidos_2012_limpo.csv")
 
-pedidos_2013 <- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/GovMG/relatorio_pedidos_2013.xlsx", 
+pedidos_2013 <- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/zzGovMG/relatorio_pedidos_2013.xlsx", 
                                      col_types = c("text", "date", "text", 
                                                    "text", "date", "date", "date", "text", 
                                                    "date", "text", "date", "text", "text"))
 pedidos_2014 <- fread("relatorios_pedidos_2014_limpo.csv")
 
-pedidos_2015_1<- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/GovMG/relatorio_pedidos_2015- até 13-10.xlsx", 
+pedidos_2015_1<- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/zzGovMG/relatorio_pedidos_2015- até 13-10.xlsx", 
                             col_types = c("text", "date", "text", 
                                           "text", "text", "text", "text", "date", 
                                           "date", "date", "text", "numeric", 
@@ -25,26 +51,19 @@ pedidos_2015_1<- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/GovM
                                           "text", "date", "text", "text", "text", 
                                           "text"))
 
+anexos_pedidos_sistema_antigo <- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/zzGovMG/anexos_pedidos_sistema_antigo.xlsx", 
+                                            col_types = c("text", "text"))
+
+colnames(anexos_pedidos_sistema_antigo) <- c("protocolo", "anexo_com_extensao_resposta")
 
 ## Sistema novo 2015
-setwd("C:\\Users\\jvoig\\OneDrive\\Documentos\\Colab\\COLAB\\GovMG\\2015_out_dez")
+setwd("C:\\Users\\jvoig\\OneDrive\\Documentos\\Colab\\COLAB\\zzGovMG\\2015_out_dez")
 
 anexo_pedidos_2015 <- fread("anexo_pedidos_2015.csv")
 anexos_recursos_2015 <- fread("anexos_recursos_2015.csv")
 anexos_respostas_pedidos <- fread("anexos_respostas_pedidos.csv")
-pedidos_2015_2 <- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/GovMG/2015_out_dez/pedidos_2015.xlsx")
+pedidos_2015_2 <- read_excel("C:/Users/jvoig/OneDrive/Documentos/Colab/COLAB/zzGovMG/2015_out_dez/pedidos_2015.xlsx")
 recursos_2015 <- fread("recursos_2015.csv") #outubro a dezembro
-
-
-## Sistema novo 2016
-setwd("C:\\Users\\jvoig\\OneDrive\\Documentos\\Colab\\COLAB\\GovMG\\pedidos_1o_sem_2016")
-
-anexo_pedidos_2016 <- fread("anexo_pedidos_2016.csv")
-anexo_recurso_2016  <- fread("anexo_recurso.csv")
-anexo_resposta_pedido_2016 <- fread("anexo_resposta_pedido.csv")
-anexo_resposta_recurso_2016 <- fread("anexo_resposta_recurso.csv")
-pedidos_2016 <- fread("pedidos_2016.csv")
-recurso_2016 <- fread("recurso.csv")
 
 # 2015: pedidos, recursos e anexos:
 
@@ -52,9 +71,12 @@ recurso_2016 <- fread("recurso.csv")
 
 base_pedidos_2015_1 <- pedidos_2015_1 %>%   #não tem o recurso
   clean_names() %>%
-  select(-c(categoria_demanda, subcategoria_demanda, encaminhamento, data_envio_ao_orgao, prazo_legal,
-            prazo_estendido, controle_reclamacao, informou_reclamacao, encerrado, codigo_resposta, observacao,
-            tempo_resposta_1,tempo_resposta_2, validacao_tempo_1, validacao_tempo_2, 
+  select(-c(categoria_demanda, subcategoria_demanda, encaminhamento, 
+            data_envio_ao_orgao, prazo_legal,
+            prazo_estendido, controle_reclamacao, informou_reclamacao, 
+            encerrado, codigo_resposta, observacao,
+            tempo_resposta_1,tempo_resposta_2, validacao_tempo_1, 
+            validacao_tempo_2, 
             prazo_de_20_dias_ultrapassado , 
             data_de_hoje, situacao_da_demanda_em_relacao_ao_prazo_de_20_dias, 
             situacao_da_demanda_em_relacao_ao_prazo_de_30_dias, 
@@ -66,10 +88,21 @@ base_pedidos_2015_1 <- pedidos_2015_1 %>%   #não tem o recurso
          resposta = resposta_1,
          data_resposta_recurso_1 = data_resposta_2,
          resposta_recurso_1 = resposta_2 ) %>%
+  filter(!is.na(pedido)) %>%
   mutate(data_do_pedido = as.Date(data_do_pedido, format = "%d/%m/%y"),
          data_da_resposta = as.Date(data_da_resposta, format = "%d/%m/%y"),
-         data_resposta_recurso_1 = as.Date(data_resposta_recurso_1, format = "%d/%m/%y"))
+         data_resposta_recurso_1 = as.Date(data_resposta_recurso_1, 
+                                           format = "%d/%m/%y"))%>%
+  distinct(protocolo , .keep_all=TRUE)
 
+recursos_2015_1 <- base_pedidos_2015_1 %>%
+  mutate(data_recurso_1 = as.Date(NA), 
+         recurso_1 = NA ) %>%
+  select(protocolo, data_recurso_1, recurso_1,
+         data_resposta_recurso_1, resposta_recurso_1)
+
+base_pedidos_2015_1 <- base_pedidos_2015_1 %>%
+  select(-c(data_resposta_recurso_1, resposta_recurso_1 ))
 
 base_pedidos_2015_2 <- pedidos_2015_2  %>% 
   clean_names() %>%
@@ -86,28 +119,55 @@ names(anexo_pedidos_2015) <- c("anexo_com_extensao_pedido",
                                "protocolo",
                                "link_anexo_pedido")
 
+anexo_pedidos_2015 <- anexo_pedidos_2015 %>%
+  group_by(protocolo) %>%
+  summarise(anexo = paste(anexo_com_extensao_pedido, collapse = ', '),
+            link = paste(link_anexo_pedido, collapse = ', ')) %>%
+  ungroup() %>%
+  group_by(protocolo) %>%
+  mutate(anexo_com_extensao_pedido = paste(anexo, link, collapse = " /// "))
+
+
 names(anexos_recursos_2015) <- c("anexo_com_extensao_recurso_1",
                                  "protocolo",
                                  "link_anexo_recurso")
-anexos_recursos_2015$protocolo <-  as.character(anexos_recursos_2015$protocolo)
 
+anexos_recursos_2015 <- anexos_recursos_2015 %>%
+  mutate(protocolo = as.character(protocolo)) %>%
+  group_by(protocolo) %>%
+  summarise(anexo = paste(anexo_com_extensao_recurso_1, collapse = ", "),
+            link = paste(link_anexo_recurso, collapse = ", ")) %>%
+  ungroup() %>%
+  group_by(protocolo) %>%
+  mutate(anexo_com_extensao_recurso_1 = paste(anexo, link, collapse = " , "))
 
 names(anexos_respostas_pedidos) <- c("anexo_com_extensao_resposta",
                                      "protocolo",
                                      "link_anexo_resposta")
-anexos_recursos_2015$protocolo <- as.character(anexos_recursos_2015$protocolo)
 
-recursos_2015_prim <- recursos_2015 %>%
+anexos_respostas_pedidos <- anexos_respostas_pedidos %>%
+  mutate(protocolo = as.character(protocolo)) %>%
+  group_by(protocolo) %>%
+  summarise(anexo = paste(anexo_com_extensao_resposta, collapse = ", "),
+            link = paste(link_anexo_resposta, collapse = ", ")) %>%
+  ungroup() %>%
+  group_by(protocolo) %>%
+  mutate(anexo_com_extensao_resposta = paste(anexo, link, collapse = " , "))
+
+recursos_2015_2_prim <- recursos_2015 %>%
   clean_names() %>%
   filter(instancia_do_recurso == "Primeira Instância") %>%
-  rename(protocolo = numero_do_protocolo,
-         data_recurso_1 = data_abertura,
+  rename(protocolo = numero_do_protocolo, 
          recurso_1 = texto_recurso,
-         resposta_recurso_1 = texto_resposta_recurso,
-         data_resposta_recurso_1 = data_registro_resposta) %>%
-  select(protocolo, data_recurso_1, recurso_1, resposta_recurso_1, data_resposta_recurso_1)
+         resposta_recurso_1 = texto_resposta_recurso) %>%
+  mutate(data_recurso_1 = as.Date(data_abertura, format="%d/%m/%Y"),
+         data_resposta_recurso_1 = as.Date(data_registro_resposta, 
+                                           format="%d/%m/%Y")) %>%
+  select(protocolo, data_recurso_1, recurso_1, resposta_recurso_1, 
+         data_resposta_recurso_1) %>%
+  bind_rows(recursos_2015_1)
 
-recursos_2015_seg <- recursos_2015 %>%
+recursos_2015_2_seg <- recursos_2015 %>%
   clean_names() %>%
   filter(instancia_do_recurso == "Segunda Instância") %>%
   rename(protocolo = numero_do_protocolo,
@@ -115,26 +175,40 @@ recursos_2015_seg <- recursos_2015 %>%
          recurso_2 = texto_recurso,
          resposta_recurso_2 = texto_resposta_recurso,
          data_resposta_recurso_2 = data_registro_resposta) %>%
-  select(protocolo, data_recurso_2, recurso_2, resposta_recurso_2, data_resposta_recurso_2)
+  select(protocolo, data_recurso_2, recurso_2, resposta_recurso_2, 
+         data_resposta_recurso_2)
 
 
 #b. juntando tudo de 2015
 
-pedidos_2015 <- base_pedidos_2015_2 %>%
-  left_join(recursos_2015_prim, by = "protocolo") %>% 
-  left_join(recursos_2015_seg, by="protocolo") %>%
+teste_igualdade_nomes_var_df(base_pedidos_2015_1, base_pedidos_2015_2)
+
+pedidos_2015 <- base_pedidos_2015_1 %>%
+  bind_rows(base_pedidos_2015_2) %>%
+  left_join(recursos_2015_2_prim, by = "protocolo") %>% 
+  left_join(recursos_2015_2_seg, by="protocolo") %>%
   left_join(anexo_pedidos_2015, by="protocolo") %>% 
   left_join(anexos_recursos_2015, by="protocolo") %>%
-  left_join(anexos_respostas_pedidos, by="protocolo") %>% 
-  bind_rows(base_pedidos_2015_2)
+  left_join(anexos_respostas_pedidos, by="protocolo")
 
 rm(pedidos_2015_1)
 rm(pedidos_2015_2)
 
 #Ufa! 2016:
+## Sistema novo :
+setwd("C:\\Users\\jvoig\\OneDrive\\Documentos\\Colab\\COLAB\\zzGovMG\\pedidos_1o_sem_2016")
+
+anexo_pedidos_2016 <- fread("anexo_pedidos_2016.csv")
+anexo_recurso_2016  <- fread("anexo_recurso.csv")
+anexo_resposta_pedido_2016 <- fread("anexo_resposta_pedido.csv")
+anexo_resposta_recurso_2016 <- fread("anexo_resposta_recurso.csv")
+pedidos_2016 <- fread("pedidos_2016.csv")
+recurso_2016 <- fread("recurso.csv")
 
 pedidos_2016 <- pedidos_2016 %>%
-clean_names() %>%
+  clean_names() %>%
+  filter(numero_protocolo != "01320000112201686",
+         numero_protocolo != "01270000002201657") %>% # tava dando muito trabalho.
   rename(protocolo = numero_protocolo,
          data_do_pedido = data_de_abertura,
          pedido = desc_do_pedido,
@@ -148,12 +222,29 @@ names(anexo_pedidos_2016) <- c("anexo_com_extensao_pedido",
                                "protocolo",
                                "link_anexo_pedido")
 
+anexo_pedidos_2016 <- anexo_pedidos_2016 %>%
+mutate(protocolo = as.character(protocolo)) %>%
+  group_by(protocolo) %>%
+  summarise(anexo = paste(anexo_com_extensao_pedido, collapse = ", "),
+            link = paste(link_anexo_pedido, collapse = ", ")) %>%
+  ungroup() %>%
+  group_by(protocolo) %>%
+  mutate(anexo_com_extensao_pedido = paste(anexo, link, collapse = " , "))
+
+
 anexo_recurso_2016 <- anexo_recurso_2016 %>%
   clean_names() %>%
-  rename(protocolo = numero_do_protocolo,
-         anexo_com_extensao_recurso_1 = nome_do_arquivo,
-         link_anexo_recurso = link_link_para_download) %>%
-  select(protocolo, anexo_com_extensao_recurso_1, link_anexo_recurso)
+  rename(protocolo = numero_do_protocolo) %>%
+  group_by(protocolo) %>%
+  summarise(anexo = paste(nome_do_arquivo, collapse = ", "),
+            link = paste(link_link_para_download, collapse = ", ")) %>%
+  ungroup() %>%
+  group_by(protocolo) %>%
+  mutate(anexo_com_extensao_recurso_1 = paste(anexo, link, collapse = " , "))
+  
+  
+  
+  #select(protocolo, anexo_com_extensao_recurso_1, link_anexo_recurso)
 
 
 names(anexo_resposta_pedido_2016) <- c("anexo_com_extensao_resposta",

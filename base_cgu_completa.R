@@ -79,8 +79,9 @@ rec4 <- recursos_cgu %>%
   rename(data_recurso_4 = data, 
          recurso_4 = conteudo, 
          pasta_do_anexo_resposta_recurso_4 = pastanx, 
-         anexo_com_extensao_resposta_recurso_4 = nomeanex) %>%
-  select(protocolo, data_recurso_4 , recurso_4,pasta_do_anexo_resposta_recurso_4, 
+         anexo_com_extensao_resposta_recurso_4 = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, data_recurso_4 , recurso_4,pasta_do_anexo_resposta_recurso_4, 
          anexo_com_extensao_resposta_recurso_4)
 
 resp4 <- recursos_cgu %>%
@@ -88,8 +89,9 @@ resp4 <- recursos_cgu %>%
   rename(data_resposta_recurso_4 = data, 
          resposta_recurso_4 = conteudo, 
          anexo_com_extensao_recurso_4 = nomeanex,
-         pasta_do_anexo_resposta_recurso_4 = pastanx) %>%
-  select(protocolo, data_resposta_recurso_4 , resposta_recurso_4,
+         pasta_do_anexo_resposta_recurso_4 = pastanx,
+         destino = orgao) %>%
+  select(protocolo, destino, data_resposta_recurso_4 , resposta_recurso_4,
          anexo_com_extensao_recurso_4, pasta_do_anexo_resposta_recurso_4 )
 
 recursos_base <- rec1 %>%
@@ -107,8 +109,9 @@ ped_com_rec_resp <- pedidos_cgu_2017_com_recurso %>%
   rename(data_da_resposta = data,
          resposta = conteudo,
          pasta_do_anexo_resposta = pastanx,
-         anexo_com_extensao_resposta = nomeanex) %>%
-  select(protocolo, data_da_resposta, resposta, 
+         anexo_com_extensao_resposta = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, data_da_resposta, resposta, 
          pasta_do_anexo_resposta, 
          anexo_com_extensao_resposta) %>%
   distinct(protocolo, resposta, .keep_all = TRUE)
@@ -118,8 +121,9 @@ ped_com_rec <- pedidos_cgu_2017_com_recurso %>%
   rename(data_do_pedido = data,
          pedido = conteudo,
          pasta_do_anexo_pedido = pastanx,
-         anexo_com_extensao_pedido = nomeanex) %>%
-  select(protocolo, data_do_pedido, 
+         anexo_com_extensao_pedido = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino,  data_do_pedido, 
          pedido, pasta_do_anexo_pedido,
          anexo_com_extensao_pedido) %>%
   distinct(protocolo, pedido, .keep_all = TRUE) %>%              #por alguma razão tinham protocolos duplicados
@@ -131,8 +135,9 @@ ped_sem_resp <- pedidos_cgu_2017_sem_recurso %>%
   rename(data_da_resposta = data,
          resposta = conteudo,
          pasta_do_anexo_resposta = pastanx,
-         anexo_com_extensao_resposta = nomeanex) %>%
-  select(protocolo, data_da_resposta, resposta, 
+         anexo_com_extensao_resposta = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino, data_da_resposta, resposta, 
          pasta_do_anexo_resposta, 
          anexo_com_extensao_resposta) %>%
   distinct(protocolo, resposta, .keep_all = TRUE)
@@ -142,8 +147,9 @@ ped_sem <- pedidos_cgu_2017_sem_recurso %>%
   rename(data_do_pedido = data,
          pedido = conteudo,
          pasta_do_anexo_pedido = pastanx,
-         anexo_com_extensao_pedido = nomeanex) %>%
-  select(protocolo, data_do_pedido, 
+         anexo_com_extensao_pedido = nomeanex,
+         destino = orgao) %>%
+  select(protocolo, destino,  data_do_pedido, 
          pedido, pasta_do_anexo_pedido,
          anexo_com_extensao_pedido) %>%
   distinct(protocolo, pedido, .keep_all = TRUE)
